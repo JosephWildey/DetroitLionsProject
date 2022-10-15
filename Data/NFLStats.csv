@@ -1,0 +1,621 @@
+Year,Lg,Tm,W,L,T,Div. Finish,Playoffs,PF,PA,PD,Coaches,AV,Passer,Rusher,Receiver,Pts,Yds,Pts,Yds,T/G,Pts±,Yds±,out of,MoV,SoS,SRS,OSRS,DSRS
+2012,NFL,Baltimore Ravens*,10,6,0,1st of 4,4,398,344,54,Harbaugh,Rice,Flacco,Rice,Boldin,10,16,12,17,8,11,15,32,3.4,-0.5,2.9,1.9,1
+2015,NFL,Denver Broncos*,12,4,0,1st of 4,4,355,296,59,Kubiak,Miller,Manning,Hillman,Thomas,19,16,4,1,19,10,3,32,3.7,2.1,5.8,0.3,5.5
+2010,NFL,Green Bay Packers*,10,6,0,2nd of 4,4,388,240,148,McCarthy,Matthews,Rodgers,Jackson,Jennings,10,9,2,5,4,2,7,32,9.3,1.7,10.9,3.1,7.9
+2006,NFL,Indianapolis Colts*,12,4,0,1st of 4,4,427,360,67,Dungy,Manning,Manning,Addai,Harrison,2,3,23,21,6,9,7,32,4.2,1.7,5.9,6.9,-1.1
+2019,NFL,Kansas City Chiefs*,12,4,0,1st of 4,4,451,308,143,Reid,Mahomes,Mahomes,Williams,Kelce,5,6,7,17,7,4,10,32,8.9,0.2,9.1,6.2,2.9
+2021,NFL,Los Angeles Rams*,12,5,0,1st of 4,4,460,372,88,McVay,Kupp,Stafford,Michel,Kupp,7,9,15,17,13,6,12,32,5.2,0.1,5.3,4.2,1.1
+2018,NFL,New England Patriots*,11,5,0,1st of 4,4,436,325,111,Belichick,Gilmore,Brady,Michel,Edelman,4,5,7,21,5,5,8,32,6.9,-1.8,5.2,3.1,2.1
+2016,NFL,New England Patriots*,14,2,0,1st of 4,4,441,250,191,Belichick,Butler,Brady,Blount,Edelman,3,4,1,8,3,1,2,32,11.9,-2.7,9.3,4.3,5
+2014,NFL,New England Patriots*,12,4,0,1st of 4,4,468,313,155,Belichick,Brady,Brady,Gray,Gronkowski,4,11,8,13,2,1,10,32,9.7,1.3,10.9,7.5,3.5
+2004,NFL,New England Patriots*,14,2,0,1st of 4,4,437,260,177,Belichick,Brady,Brady,Dillon,Givens,4,7,2,9,8,1,4,32,11.1,1.8,12.8,6.4,6.5
+2003,NFL,New England Patriots*,14,2,0,1st of 4,4,348,238,110,Belichick,Law,Brady,Smith,Branch,12,17,1,7,2,6,14,32,6.9,0.1,6.9,2.1,4.9
+2009,NFL,New Orleans Saints*,13,3,0,1st of 4,4,510,341,169,Payton,Evans,Brees,Thomas,Colston,1,1,20,25,3,1,9,32,10.6,0.2,10.8,11.2,-0.5
+2011,NFL,New York Giants*,9,7,0,1st of 4,4,394,400,-6,Coughlin,Manning,Manning,Bradshaw,Cruz,9,8,25,27,7,19,12,32,-0.4,2,1.6,3.1,-1.5
+2007,NFL,New York Giants*,10,6,0,2nd of 4,4,373,351,22,Coughlin,Umenyiora,Manning,Jacobs,Burress,14,16,17,7,26,13,11,32,1.4,1.9,3.3,2.8,0.4
+2017,NFL,Philadelphia Eagles*,13,3,0,1st of 4,4,457,295,162,Pederson,Kelce,Wentz,Blount,Ertz,3,7,4,4,4,1,4,32,10.1,-0.7,9.4,7,2.5
+2008,NFL,Pittsburgh Steelers*,12,4,0,1st of 4,4,347,223,124,Tomlin,Harrison,Roethlisberger,Parker,Ward,20,22,1,1,11,5,2,32,7.8,2,9.8,1.6,8.2
+2005,NFL,Pittsburgh Steelers*,11,5,0,2nd of 4,4,389,258,131,Cowher,Faneca,Roethlisberger,Parker,Ward,9,15,3,4,9,5,7,32,8.2,-0.4,7.8,3.8,4
+2013,NFL,Seattle Seahawks*,13,3,0,1st of 4,4,417,231,186,Carroll,Sherman,Wilson,Lynch,Tate,8,17,1,1,1,2,3,32,11.6,1.4,13,4.1,8.9
+2020,NFL,Tampa Bay Buccaneers*,11,5,0,2nd of 4,4,492,355,137,Arians,Brady,Brady,Jones,Evans,3,7,8,6,6,4,4,32,8.6,0.8,9.4,6.5,2.8
+2002,NFL,Tampa Bay Buccaneers*,12,4,0,1st of 4,4,346,196,150,Gruden,Brooks,Johnson,Pittman,Johnson,18,24,1,1,1,2,4,32,9.4,-0.6,8.8,-1,9.8
+2008,NFL,Arizona Cardinals*,9,7,0,1st of 4,3,427,426,1,Whisenhunt,Warner,Warner,James,Fitzgerald,3,4,28,19,17,18,11,32,0.1,-1.9,-1.9,4.1,-6
+2016,NFL,Atlanta Falcons*,11,5,0,1st of 4,3,540,406,134,Quinn,Ryan,Ryan,Freeman,Jones,1,2,27,25,4,2,4,32,8.4,0.1,8.5,10.5,-2
+2015,NFL,Carolina Panthers*,15,1,0,1st of 4,3,500,308,192,Rivera,Newton,Newton,Stewart,Olsen,1,11,6,6,1,1,5,32,12,-3.9,8.1,6,2.1
+2003,NFL,Carolina Panthers*,11,5,0,1st of 4,3,325,304,21,Fox,Jenkins,Delhomme,Davis,Smith,15,16,10,8,25,16,11,32,1.3,-2.2,-0.9,-1.5,0.6
+2006,NFL,Chicago Bears*,13,3,0,1st of 4,3,427,255,172,Smith,Urlacher,Grossman,Jones,Muhammad,2,15,3,5,4,2,10,32,10.8,-2.9,7.9,4.9,3
+2021,NFL,Cincinnati Bengals*,10,7,0,1st of 4,3,460,376,84,Taylor,Burrow,Burrow,Mixon,Chase,7,13,17,18,16,8,16,32,4.9,-1.9,3.1,3.4,-0.3
+2013,NFL,Denver Broncos*,13,3,0,1st of 4,3,606,399,207,Fox,Vasquez,Manning,Moreno,Thomas,1,1,22,19,14,1,1,32,12.9,-1.6,11.4,14.1,-2.7
+2009,NFL,Indianapolis Colts*,14,2,0,1st of 4,3,416,307,109,Caldwell,Manning,Manning,Addai,Wayne,7,9,8,18,13,9,14,32,6.8,-0.9,5.9,4.4,1.5
+2020,NFL,Kansas City Chiefs*,14,2,0,1st of 4,3,473,362,111,Reid,Mahomes,Mahomes,Edwards-Helaire,Kelce,6,1,10,16,8,6,3,32,6.9,-0.1,6.8,4.5,2.3
+2002,NFL,Oakland Raiders*,11,5,0,1st of 4,3,450,304,146,Callahan,Robbins,Gannon,Garner,Rice,2,1,6,11,5,3,2,32,9.1,1.5,10.6,6.3,4
+2018,NFL,Los Angeles Rams*,13,3,0,1st of 4,3,527,384,143,McVay,Goff,Goff,Gurley,Woods,2,2,20,19,4,3,3,32,8.9,-0.4,8.5,9.5,-1.1
+2017,NFL,New England Patriots*,13,3,0,1st of 4,3,458,296,162,Belichick,Brady,Brady,Lewis,Gronkowski,2,1,5,29,11,1,9,32,10.1,-1.2,8.9,6.3,2.6
+2011,NFL,New England Patriots*,13,3,0,1st of 4,3,513,342,171,Belichick,Brady,Brady,Green-Ellis,Welker,3,2,15,31,3,3,10,32,10.7,-1.4,9.3,9.4,-0.1
+2007,NFL,New England Patriots*,16,0,0,1st of 4,3,589,274,315,Belichick,Brady,Brady,Maroney,Moss,1,1,4,4,3,1,1,32,19.7,0.4,20.1,15.9,4.2
+2004,NFL,Philadelphia Eagles*,13,3,0,1st of 4,3,386,260,126,Reid,Sheppard,McNabb,Westbrook,Owens,8,9,2,10,11,4,9,32,7.9,-2.3,5.6,2,3.5
+2010,NFL,Pittsburgh Steelers*,12,4,0,1st of 4,3,375,232,143,Tomlin,Harrison,Roethlisberger,Mendenhall,Wallace,12,14,1,2,2,3,2,32,8.9,1.3,10.2,2.5,7.7
+2019,NFL,San Francisco 49ers*,13,3,0,1st of 4,3,479,310,169,Shanahan,Buckner,Garoppolo,Mostert,Kittle,2,4,8,2,10,3,3,32,10.6,0.4,11,6.7,4.3
+2012,NFL,San Francisco 49ers*,11,4,1,1st of 4,3,397,273,124,Harbaugh,Bowman,Kaepernick,Gore,Crabtree,11,11,2,3,8,4,3,32,7.8,2.5,10.2,3.5,6.7
+2014,NFL,Seattle Seahawks*,12,4,0,1st of 4,3,394,254,140,Carroll,Wilson,Wilson,Lynch,Baldwin,10,9,1,1,4,2,1,32,8.8,0.8,9.5,2.4,7.1
+2005,NFL,Seattle Seahawks*,13,3,0,1st of 4,3,452,271,181,Holmgren,Alexander,Hasselbeck,Alexander,Engram,1,2,7,16,7,2,3,32,11.3,-2.2,9.1,5.8,3.4
+2015,NFL,Arizona Cardinals*,13,3,0,1st of 4,2,489,313,176,Arians,Palmer,Palmer,Johnson,Fitzgerald,2,1,7,5,4,2,2,32,11,1.3,12.3,9,3.4
+2012,NFL,Atlanta Falcons*,13,3,0,1st of 4,2,419,299,120,Smith,Ryan,Ryan,Turner,White,7,8,5,24,5,5,14,32,7.5,-1.1,6.4,2,4.5
+2004,NFL,Atlanta Falcons*,11,5,0,1st of 4,2,340,337,3,Mora,Vick,Vick,Dunn,Crumpler,16,20,14,14,17,14,17,32,0.2,-2.4,-2.2,-1.8,-0.4
+2011,NFL,Baltimore Ravens*,12,4,0,1st of 4,2,378,266,112,Harbaugh,Ngata,Flacco,Rice,Boldin,12,15,3,3,11,5,5,32,7,-0.9,6.1,2.6,3.5
+2008,NFL,Baltimore Ravens*,11,5,0,2nd of 4,2,385,244,141,Harbaugh,Lewis,Flacco,McClain,Mason,11,18,3,2,3,1,5,32,8.8,1,9.8,4.2,5.6
+2020,NFL,Buffalo Bills*,13,3,0,1st of 4,2,501,375,126,McDermott,Allen,Allen,Singletary,Diggs,2,2,16,14,10,5,8,32,7.9,-0.2,7.7,7.1,0.6
+2005,NFL,Carolina Panthers*,11,5,0,2nd of 4,2,391,259,132,Fox,Smith,Delhomme,Foster,Smith,8,22,5,3,3,4,11,32,8.3,-3.2,5.1,3,2.1
+2010,NFL,Chicago Bears*,11,5,0,1st of 4,2,334,286,48,Smith,Peppers,Cutler,Forte,Knox,21,30,4,9,11,10,22,32,3,1.1,4.1,-0.6,4.7
+2005,NFL,Denver Broncos*,13,3,0,1st of 4,2,395,258,137,Shanahan,Bailey,Plummer,Anderson,Smith,7,5,3,15,2,3,5,32,8.6,2.2,10.8,5,5.8
+2020,NFL,Green Bay Packers*,13,3,0,1st of 4,2,509,369,140,LaFleur,Rodgers,Rodgers,Jones,Adams,1,5,13,9,7,3,6,32,8.8,-1.1,7.7,5.9,1.8
+2019,NFL,Green Bay Packers*,13,3,0,1st of 4,2,376,313,63,LaFleur,Rodgers,Rodgers,Jones,Adams,15,18,9,18,3,9,16,32,3.9,-0.7,3.2,0.6,2.6
+2016,NFL,Green Bay Packers*,10,6,0,1st of 4,2,432,388,44,McCarthy,Rodgers,Rodgers,Montgomery,Nelson,4,8,21,22,6,8,16,32,2.8,0.1,2.8,4.9,-2
+2014,NFL,Green Bay Packers*,12,4,0,1st of 4,2,486,348,138,McCarthy,Rodgers,Rodgers,Lacy,Nelson,1,6,13,15,1,3,6,32,8.6,-0.3,8.3,7.9,0.4
+2007,NFL,Green Bay Packers*,13,3,0,1st of 4,2,435,291,144,McCarthy,Favre,Favre,Grant,Driver,4,2,6,11,10,3,5,32,9,0,9,5.7,3.3
+2014,NFL,Indianapolis Colts*,11,5,0,1st of 4,2,458,369,89,Pagano,Luck,Luck,Richardson,Hilton,6,3,19,11,22,7,3,32,5.6,-1.1,4.4,5.2,-0.8
+2003,NFL,Indianapolis Colts*,12,4,0,1st of 4,2,447,336,111,Dungy,Manning,Manning,James,Harrison,2,3,20,11,6,4,3,32,6.9,0,7,8.2,-1.2
+2017,NFL,Jacksonville Jaguars*,10,6,0,1st of 4,2,417,268,149,Marrone,Campbell,Bortles,Fournette,Cole,5,6,2,2,5,3,2,32,9.3,-2.8,6.5,3,3.6
+2021,NFL,Kansas City Chiefs*,12,5,0,1st of 4,2,480,364,116,Reid,Mahomes,Mahomes,Williams,Hill,4,3,8,27,11,5,11,32,6.8,0.6,7.4,5.4,2
+2018,NFL,Kansas City Chiefs*,12,4,0,1st of 4,2,565,421,144,Reid,Mahomes,Mahomes,Hunt,Hill,1,1,24,31,6,2,11,32,9,-0.1,8.9,12.6,-3.8
+2007,NFL,San Diego Chargers*,11,5,0,1st of 4,2,412,284,128,Turner,Tomlinson,Rivers,Tomlinson,Gates,5,20,5,14,1,5,19,32,8,0.8,8.8,4.3,4.5
+2017,NFL,Minnesota Vikings*,13,3,0,1st of 4,2,382,252,130,Zimmer,Griffen,Keenum,Murray,Thielen,10,11,1,1,12,5,1,32,8.1,1,9.1,2.3,6.8
+2009,NFL,Minnesota Vikings*,12,4,0,1st of 4,2,470,312,158,Childress,Hutchinson,Favre,Peterson,Rice,2,5,10,6,8,3,4,32,9.9,-2.7,7.2,6.6,0.6
+2015,NFL,New England Patriots*,12,4,0,1st of 4,2,465,315,150,Belichick,Brady,Brady,Blount,Gronkowski,3,6,10,9,5,3,8,32,9.4,-2.4,7,5.3,1.7
+2013,NFL,New England Patriots*,12,4,0,1st of 4,2,444,338,106,Belichick,Mankins,Brady,Ridley,Edelman,3,7,10,26,8,8,13,32,6.6,-0.7,5.9,4.5,1.4
+2012,NFL,New England Patriots*,12,4,0,1st of 4,2,557,331,226,Belichick,Brady,Brady,Ridley,Welker,1,1,9,25,1,1,5,32,14.1,-1.4,12.8,12.2,0.5
+2006,NFL,New England Patriots*,12,4,0,1st of 4,2,385,237,148,Belichick,Seymour,Brady,Dillon,Caldwell,7,11,2,6,4,4,8,32,9.3,1,10.2,4.3,5.9
+2018,NFL,New Orleans Saints*,13,3,0,1st of 4,2,504,353,151,Payton,Brees,Brees,Kamara,Thomas,3,8,14,14,7,1,10,32,9.4,0.6,10.1,7.9,2.2
+2006,NFL,New Orleans Saints*,10,6,0,1st of 4,2,413,322,91,Payton,Brees,Brees,McAllister,Colston,5,1,13,11,22,6,1,32,5.7,-1.6,4,4.9,-0.9
+2010,NFL,New York Jets*,11,5,0,2nd of 4,2,367,304,63,Ryan,Revis,Sanchez,Tomlinson,Edwards,13,11,6,3,5,8,6,32,3.9,2.5,6.5,2.2,4.2
+2009,NFL,New York Jets*,9,7,0,2nd of 4,2,348,236,112,Ryan,Revis,Sanchez,Jones,Cotchery,17,20,1,1,16,7,5,32,7,1.6,8.6,1.1,7.5
+2008,NFL,Philadelphia Eagles*,9,6,1,2nd of 4,2,416,289,127,Reid,Mikell,McNabb,Westbrook,Jackson,6,9,4,3,14,4,1,32,7.9,-0.1,7.8,4.7,3.2
+2003,NFL,Philadelphia Eagles*,12,4,0,1st of 4,2,374,287,87,Reid,McNabb,McNabb,Westbrook,Pinkston,11,18,7,20,8,8,20,32,5.4,-1,4.4,2.9,1.5
+2002,NFL,Philadelphia Eagles*,12,4,0,1st of 4,2,415,241,174,Reid,Vincent,McNabb,Staley,Pinkston,4,10,2,4,4,1,6,32,10.9,-2.6,8.3,4.5,3.8
+2016,NFL,Pittsburgh Steelers*,11,5,0,1st of 4,2,399,327,72,Tomlin,Bell,Roethlisberger,Bell,Brown,10,7,10,12,9,5,7,32,4.5,0.2,4.7,2.8,2
+2004,NFL,Pittsburgh Steelers*,15,1,0,1st of 4,2,372,251,121,Cowher,Farrior,Roethlisberger,Bettis,Ward,11,16,1,1,5,5,2,32,7.6,1.4,9,3.4,5.6
+2021,NFL,San Francisco 49ers*,10,7,0,3rd of 4,2,427,365,62,Shanahan,Williams,Garoppolo,Mitchell,Samuel,13,7,9,3,22,12,3,32,3.6,0.1,3.8,1.8,1.9
+2013,NFL,San Francisco 49ers*,12,4,0,2nd of 4,2,406,272,134,Harbaugh,Bowman,Kaepernick,Gore,Boldin,11,24,3,5,4,3,14,32,8.4,1.8,10.1,3.5,6.6
+2011,NFL,San Francisco 49ers*,13,3,0,1st of 4,2,380,229,151,Harbaugh,Bowman,Smith,Gore,Crabtree,11,26,2,4,1,4,14,32,9.4,-1.1,8.3,1.7,6.6
+2019,NFL,Tennessee Titans*,9,7,0,2nd of 4,2,402,331,71,Vrabel,Henry,Tannehill,Henry,Brown,10,12,12,21,9,8,15,32,4.4,-1,3.4,1.8,1.7
+2002,NFL,Tennessee Titans*,11,5,0,1st of 4,2,367,324,43,Fisher,McNair,McNair,George,Mason,13,17,11,10,11,11,15,32,2.7,-0.9,1.8,1.6,0.1
+2009,NFL,Arizona Cardinals*,10,6,0,1st of 4,1,375,325,50,Whisenhunt,Wilson,Warner,Wells,Fitzgerald,11,14,14,20,24,12,17,32,3.1,-3.4,-0.3,0.1,-0.4
+2017,NFL,Atlanta Falcons*,10,6,0,3rd of 4,1,353,315,38,Quinn,Ryan,Ryan,Freeman,Jones,15,8,8,9,19,11,7,32,2.4,1.9,4.3,1.1,3.2
+2010,NFL,Atlanta Falcons*,13,3,0,1st of 4,1,414,288,126,Smith,Abraham,Ryan,Turner,White,5,16,5,16,3,4,14,32,7.9,-1.8,6.1,3.8,2.2
+2002,NFL,Atlanta Falcons*,9,6,1,2nd of 4,1,402,314,88,Reeves,Vick,Vick,Dunn,Finneran,5,14,8,19,5,4,16,32,5.5,-0.4,5.1,3.5,1.5
+2020,NFL,Baltimore Ravens*,11,5,0,2nd of 4,1,468,303,165,Harbaugh,Jackson,Jackson,Jackson,Brown,7,19,2,7,10,1,10,32,10.3,-2,8.3,3.9,4.3
+2019,NFL,Baltimore Ravens*,14,2,0,1st of 4,1,531,282,249,Harbaugh,Jackson,Jackson,Jackson,Andrews,1,2,3,4,6,1,1,32,15.6,0.1,15.6,11,4.7
+2014,NFL,Baltimore Ravens*,10,6,0,3rd of 4,1,409,302,107,Harbaugh,Yanda,Flacco,Forsett,Smith,8,12,6,8,14,6,8,32,6.7,-2.1,4.6,1.8,2.8
+2010,NFL,Baltimore Ravens*,12,4,0,2nd of 4,1,357,270,87,Harbaugh,Ngata,Flacco,Rice,Boldin,16,22,3,10,9,6,15,32,5.4,1,6.4,0.9,5.5
+2009,NFL,Baltimore Ravens*,9,7,0,2nd of 4,1,391,261,130,Harbaugh,Rice,Flacco,Rice,Mason,9,13,3,3,4,6,8,32,8.1,-0.7,7.5,2.6,4.9
+2006,NFL,Baltimore Ravens*,13,3,0,1st of 4,1,353,201,152,Billick,Thomas,McNair,Lewis,Clayton,12,17,1,1,1,3,6,32,9.5,-0.2,9.3,1.5,7.8
+2021,NFL,Buffalo Bills*,11,6,0,1st of 4,1,483,289,194,McDermott,Allen,Allen,Singletary,Diggs,3,5,1,1,7,1,1,32,11.4,-1.6,9.8,5,4.8
+2014,NFL,Carolina Panthers*,7,8,1,1st of 4,1,339,374,-35,Rivera,Kuechly,Newton,Stewart,Benjamin,19,16,21,10,13,23,12,32,-2.2,-0.9,-3.1,-2.4,-0.7
+2013,NFL,Carolina Panthers*,12,4,0,1st of 4,1,366,241,125,Rivera,Kuechly,Newton,Williams,Olsen,18,26,2,2,6,4,12,32,7.8,1.4,9.2,0.6,8.6
+2008,NFL,Carolina Panthers*,12,4,0,1st of 4,1,414,329,85,Fox,Beason,Delhomme,Williams,Smith,7,10,12,18,7,8,16,32,5.3,0.3,5.6,2.8,2.9
+2005,NFL,Chicago Bears*,11,5,0,1st of 4,1,260,202,58,Smith,Briggs,Orton,Jones,Muhammad,26,29,1,2,11,12,25,32,3.6,-2.2,1.4,-5.2,6.6
+2020,NFL,Cleveland Browns*,11,5,0,3rd of 4,1,408,419,-11,Stefanski,Conklin,Mayfield,Chubb,Landry,14,16,21,17,9,16,14,32,-0.7,-1.9,-2.6,0.3,-2.8
+2018,NFL,Dallas Cowboys*,10,6,0,1st of 4,1,339,324,15,Garrett,Elliott,Prescott,Elliott,Cooper,22,22,6,7,12,14,15,32,0.9,0.2,1.1,-1.9,2.9
+2016,NFL,Dallas Cowboys*,13,3,0,1st of 4,1,421,306,115,Garrett,Lee,Prescott,Elliott,Beasley,5,5,5,14,9,3,6,32,7.2,-0.2,7,4.1,2.9
+2014,NFL,Dallas Cowboys*,12,4,0,1st of 4,1,467,352,115,Garrett,Murray,Romo,Murray,Bryant,5,7,15,19,9,5,7,32,7.2,-1.8,5.4,5.3,0.1
+2009,NFL,Dallas Cowboys*,11,5,0,1st of 4,1,361,250,111,Phillips,Ratliff,Romo,Barber,Austin,14,2,2,9,13,8,2,32,6.9,0.2,7.1,0.4,6.7
+2007,NFL,Dallas Cowboys*,13,3,0,1st of 4,1,455,325,130,Phillips,Romo,Romo,Barber,Owens,2,3,13,9,8,4,4,32,8.1,1.3,9.5,7.8,1.7
+2014,NFL,Denver Broncos*,12,4,0,1st of 4,1,482,354,128,Fox,Thomas,Manning,Anderson,Thomas,2,4,16,3,11,4,2,32,8,1.6,9.6,9.2,0.4
+2012,NFL,Denver Broncos*,13,3,0,1st of 4,1,481,289,192,Fox,Miller,Manning,McGahee,Thomas,2,4,4,2,17,2,1,32,12,-1.9,10.1,6.3,3.8
+2011,NFL,Denver Broncos*,8,8,0,1st of 4,1,309,390,-81,Fox,Miller,Tebow,McGahee,Decker,25,23,24,20,26,25,27,32,-5.1,-0.2,-5.3,-3.6,-1.7
+2021,NFL,Green Bay Packers*,13,4,0,1st of 4,1,450,371,79,LaFleur,Adams,Rodgers,Dillon,Adams,10,10,13,9,3,10,7,32,4.6,-0.2,4.4,3.5,1
+2015,NFL,Green Bay Packers*,10,6,0,2nd of 4,1,368,323,45,McCarthy,Rodgers,Rodgers,Lacy,Jones,15,23,12,15,10,11,19,32,2.8,2.5,5.3,2,3.3
+2012,NFL,Green Bay Packers*,11,5,0,1st of 4,1,433,336,97,McCarthy,Rodgers,Rodgers,Green,Cobb,5,13,11,11,10,7,9,32,6.1,1.2,7.3,4.9,2.4
+2011,NFL,Green Bay Packers*,15,1,0,1st of 4,1,560,359,201,McCarthy,Rodgers,Rodgers,Starks,Nelson,1,3,19,32,2,2,17,32,12.6,-1.2,11.4,11.5,-0.1
+2003,NFL,Green Bay Packers*,10,6,0,1st of 4,1,442,307,135,Sherman,Green,Favre,Green,Walker,4,4,11,17,14,2,8,32,8.4,-0.3,8.1,6.2,1.9
+2019,NFL,Houston Texans*,10,6,0,1st of 4,1,378,385,-7,O'Brien,Watson,Watson,Hyde,Hopkins,14,13,19,28,15,15,20,32,-0.4,1,0.5,1,-0.5
+2016,NFL,Houston Texans*,9,7,0,1st of 4,1,279,328,-49,O'Brien,Mercilus,Osweiler,Miller,Hopkins,28,29,11,1,26,26,10,32,-3.1,0.4,-2.6,-5.3,2.7
+2012,NFL,Houston Texans*,12,4,0,1st of 4,1,416,331,85,Kubiak,Watt,Schaub,Foster,Johnson,8,7,9,7,7,8,6,32,5.3,-1.8,3.5,1.8,1.7
+2011,NFL,Houston Texans*,10,6,0,1st of 4,1,381,278,103,Kubiak,Cushing,Schaub,Foster,Daniels,10,13,4,2,7,6,3,32,6.4,-1.9,4.5,1.4,3.2
+2018,NFL,Indianapolis Colts*,10,6,0,2nd of 4,1,433,344,89,Reich,Leonard,Luck,Mack,Hilton,5,7,10,11,13,8,4,32,5.6,-2.2,3.4,3.9,-0.6
+2013,NFL,Indianapolis Colts*,11,5,0,1st of 4,1,391,336,55,Pagano,Mathis,Luck,Brown,Hilton,14,15,9,20,3,10,20,32,3.4,0.6,4,1.7,2.3
+2007,NFL,Indianapolis Colts*,13,3,0,1st of 4,1,450,262,188,Dungy,Wayne,Manning,Addai,Wayne,3,5,1,3,2,2,2,32,11.8,0.3,12,6.6,5.4
+2005,NFL,Indianapolis Colts*,14,2,0,1st of 4,1,439,247,192,Dungy,Saturday,Manning,James,Harrison,2,3,2,11,4,1,2,32,12,-1.2,10.8,5.6,5.2
+2004,NFL,Indianapolis Colts*,12,4,0,1st of 4,1,522,351,171,Dungy,Manning,Manning,James,Wayne,1,2,19,29,1,2,7,32,10.7,0.7,11.4,11.7,-0.3
+2007,NFL,Jacksonville Jaguars*,11,5,0,2nd of 4,1,411,304,107,Del Rio,Jones-Drew,Garrard,Taylor,Williams,6,7,10,12,6,7,8,32,6.7,0.1,6.8,4.8,2
+2016,NFL,Kansas City Chiefs*,12,4,0,1st of 4,1,389,311,78,Reid,Peters,Smith,Ware,Kelce,13,20,7,24,1,4,28,32,4.9,0.7,5.6,1.2,4.4
+2015,NFL,Kansas City Chiefs*,11,5,0,2nd of 4,1,405,287,118,Reid,Smith,Smith,West,Maclin,9,27,3,7,2,6,15,32,7.4,1.6,9,3.7,5.3
+2003,NFL,Kansas City Chiefs*,13,3,0,1st of 4,1,484,332,152,Vermeil,Holmes,Green,Holmes,Gonzalez,1,2,19,29,1,1,16,32,9.5,-1.2,8.3,9.2,-0.9
+2018,NFL,Los Angeles Chargers*,12,4,0,2nd of 4,1,428,329,99,Lynn,Rivers,Rivers,Gordon,Allen,6,11,8,9,15,7,6,32,6.2,-0.2,6,3,2.9
+2013,NFL,San Diego Chargers*,9,7,0,3rd of 4,1,396,348,48,McCoy,Rivers,Rivers,Mathews,Allen,12,5,11,23,20,12,9,32,3,-0.3,2.7,0.5,2.1
+2009,NFL,San Diego Chargers*,13,3,0,1st of 4,1,454,320,134,Turner,Rivers,Rivers,Tomlinson,Jackson,4,10,11,16,6,5,12,32,8.4,-1.7,6.6,6.4,0.2
+2008,NFL,San Diego Chargers*,8,8,0,1st of 4,1,439,347,92,Turner,Rivers,Rivers,Tomlinson,Jackson,2,11,15,25,11,7,21,32,5.8,-0.8,5,5,0
+2006,NFL,San Diego Chargers*,14,2,0,1st of 4,1,492,303,189,Schottenheimer,Tomlinson,Rivers,Tomlinson,Gates,1,4,7,10,3,1,2,32,11.8,-1.6,10.2,10,0.2
+2020,NFL,Los Angeles Rams*,10,6,0,2nd of 4,1,372,296,76,McVay,Donald,Goff,Akers,Kupp,22,11,1,1,21,10,1,32,4.8,0.7,5.4,-0.8,6.2
+2004,NFL,St. Louis Rams*,8,8,0,2nd of 4,1,319,392,-73,Martz,Bulger,Bulger,Faulk,Holt,19,6,25,17,32,25,8,32,-4.6,-1.4,-6,-2.2,-3.8
+2003,NFL,St. Louis Rams*,12,4,0,1st of 4,1,447,328,119,Martz,Pace,Bulger,Faulk,Holt,2,9,17,16,7,3,12,32,7.4,-1.6,5.9,6,-0.2
+2019,NFL,Minnesota Vikings*,10,6,0,2nd of 4,1,407,303,104,Zimmer,Kendricks,Cousins,Cook,Diggs,8,16,5,14,5,7,13,32,6.5,-1.1,5.4,2.5,2.9
+2004,NFL,Minnesota Vikings*,8,8,0,2nd of 4,1,405,395,10,Tice,Culpepper,Culpepper,Smith,Burleson,6,4,26,28,18,13,11,32,0.6,-2.3,-1.7,3,-4.7
+2010,NFL,New England Patriots*,14,2,0,1st of 4,1,518,313,205,Belichick,Vollmer,Brady,Green-Ellis,Welker,1,8,8,25,1,1,19,32,12.8,2.6,15.4,12.6,2.8
+2005,NFL,New England Patriots*,10,6,0,1st of 4,1,379,338,41,Belichick,Brady,Brady,Dillon,Branch,10,7,17,26,20,13,14,32,2.6,0.6,3.1,3.7,-0.5
+2020,NFL,New Orleans Saints*,12,4,0,1st of 4,1,482,337,145,Payton,Ramczyk,Brees,Kamara,Kamara,5,12,5,4,3,2,2,32,9.1,0.5,9.6,5.1,4.5
+2017,NFL,New Orleans Saints*,11,5,0,1st of 4,1,448,326,122,Payton,Jordan,Brees,Ingram,Thomas,4,2,10,17,9,6,5,32,7.6,1.5,9.2,7,2.2
+2013,NFL,New Orleans Saints*,11,5,0,2nd of 4,1,414,304,110,Payton,Brees,Brees,Thomas,Graham,10,4,4,4,14,7,2,32,6.9,1.9,8.8,3.8,5
+2011,NFL,New Orleans Saints*,13,3,0,1st of 4,1,547,339,208,Payton,Brees,Brees,Sproles,Graham,2,1,13,24,19,1,2,32,13,-1.6,11.4,10.6,0.8
+2008,NFL,New York Giants*,12,4,0,1st of 4,1,427,294,133,Coughlin,Tuck,Manning,Jacobs,Hixon,3,7,5,5,4,3,4,32,8.3,0.1,8.4,5.5,2.8
+2004,NFL,New York Jets*,10,6,0,2nd of 4,1,333,261,72,Edwards,Martin,Pennington,Martin,Moss,17,12,4,7,2,8,6,32,4.5,2.1,6.6,0.5,6
+2002,NFL,New York Jets*,9,7,0,1st of 4,1,359,336,23,Edwards,Mawae,Pennington,Martin,Coles,15,22,14,24,11,16,23,32,1.4,1.7,3.2,0.9,2.3
+2018,NFL,Philadelphia Eagles*,9,7,0,2nd of 4,1,367,348,19,Pederson,Cox,Wentz,Adams,Ertz,18,14,12,23,25,12,20,32,1.2,0.5,1.7,0,1.8
+2006,NFL,Philadelphia Eagles*,10,6,0,1st of 4,1,398,328,70,Reid,Andrews,McNabb,Westbrook,Brown,6,2,15,15,9,8,5,32,4.4,-1,3.4,3.2,0.2
+2017,NFL,Pittsburgh Steelers*,13,3,0,1st of 4,1,406,308,98,Tomlin,Heyward,Roethlisberger,Bell,Brown,8,3,7,5,14,7,3,32,6.1,-1.1,5,3.2,1.8
+2015,NFL,Pittsburgh Steelers*,10,6,0,2nd of 4,1,423,319,104,Tomlin,Brown,Roethlisberger,Williams,Brown,4,3,11,21,15,7,9,32,6.5,2.2,8.7,5.1,3.6
+2002,NFL,Pittsburgh Steelers*,10,5,1,1st of 4,1,390,345,45,Cowher,Porter,Maddox,Zereoue,Ward,8,5,16,7,15,9,3,32,2.8,-0.1,2.7,3.1,-0.4
+2002,NFL,San Francisco 49ers*,10,6,0,1st of 4,1,367,351,16,Mariucci,Owens,Garcia,Hearst,Owens,13,8,18,14,8,17,10,32,1,-0.4,0.6,0.7,-0.1
+2019,NFL,Seattle Seahawks*,11,5,0,2nd of 4,1,405,398,7,Carroll,Wilson,Wilson,Carson,Lockett,9,8,22,26,3,14,17,32,0.4,2.3,2.7,2.9,-0.2
+2016,NFL,Seattle Seahawks*,10,5,1,1st of 4,1,354,292,62,Carroll,Wagner,Wilson,Michael,Baldwin,18,12,3,5,16,6,5,32,3.9,-1.7,2.1,-2.4,4.5
+2015,NFL,Seattle Seahawks*,10,6,0,2nd of 4,1,423,277,146,Carroll,Wilson,Wilson,Rawls,Baldwin,4,4,1,2,5,4,1,32,9.1,2.2,11.3,5.4,6
+2012,NFL,Seattle Seahawks*,11,5,0,2nd of 4,1,412,245,167,Carroll,Sherman,Wilson,Lynch,Rice,9,17,1,4,5,3,7,32,10.4,1.8,12.2,4.5,7.7
+2010,NFL,Seattle Seahawks*,7,9,0,1st of 4,1,310,407,-97,Carroll,Hasselbeck,Hasselbeck,Lynch,Williams,23,28,25,27,27,28,30,32,-6.1,-3.4,-9.4,-3.9,-5.5
+2007,NFL,Seattle Seahawks*,10,6,0,1st of 4,1,393,291,102,Holmgren,Kerney,Hasselbeck,Alexander,Engram,9,9,6,15,5,8,10,32,6.4,-4.6,1.8,0.8,0.9
+2006,NFL,Seattle Seahawks*,9,7,0,1st of 4,1,335,341,-6,Holmgren,Peterson,Hasselbeck,Alexander,Jackson,14,19,19,19,27,15,21,32,-0.4,-3.2,-3.6,-1.7,-1.9
+2021,NFL,Tampa Bay Buccaneers*,13,4,0,1st of 4,1,511,353,158,Arians,Wirfs,Brady,Fournette,Godwin,2,2,5,13,6,4,2,32,9.3,-0.7,8.6,7.3,1.3
+2021,NFL,Tennessee Titans*,12,5,0,1st of 4,1,419,354,65,Vrabel,Simmons,Tannehill,Henry,Brown,15,17,6,12,20,11,15,32,3.8,-0.4,3.4,1.8,1.6
+2017,NFL,Tennessee Titans*,9,7,0,2nd of 4,1,334,356,-22,Mularkey,Byard,Mariota,Henry,Walker,19,23,17,13,23,16,17,32,-1.4,-2.1,-3.5,-2,-1.5
+2008,NFL,Tennessee Titans*,13,3,0,1st of 4,1,375,234,141,Fisher,Finnegan,Collins,Johnson,Gage,14,21,2,7,2,1,15,32,8.8,0.1,8.9,1.5,7.5
+2003,NFL,Tennessee Titans*,12,4,0,2nd of 4,1,435,324,111,Fisher,Bulluck,McNair,George,Mason,5,8,13,12,3,4,9,32,6.9,-0.5,6.5,7,-0.5
+2005,NFL,Washington Redskins*,10,6,0,2nd of 4,1,359,293,66,Gibbs,Moss,Brunell,Portis,Moss,13,11,9,9,14,11,9,32,4.1,1.9,6,2.6,3.4
+2021,NFL,Arizona Cardinals*,11,6,0,2nd of 4,0,449,366,83,Kingsbury,Murray,Murray,Conner,Kirk,11,8,11,11,4,9,5,32,4.9,0.3,5.2,3.6,1.6
+2014,NFL,Arizona Cardinals*,11,5,0,2nd of 4,0,310,299,11,Arians,Campbell,Stanton,Ellington,Floyd,24,24,5,24,5,16,27,32,0.7,1.3,2,-2.4,4.4
+2011,NFL,Atlanta Falcons*,10,6,0,2nd of 4,0,402,350,52,Smith,Ryan,Ryan,Turner,White,7,10,18,12,5,10,7,32,3.3,0.3,3.5,1.8,1.7
+2008,NFL,Atlanta Falcons*,11,5,0,2nd of 4,0,391,325,66,Smith,White,Ryan,Turner,White,10,6,11,24,21,11,19,32,4.1,-0.3,3.8,1.3,2.5
+2018,NFL,Baltimore Ravens*,10,6,0,1st of 4,0,389,287,102,Harbaugh,Mosley,Flacco,Edwards,Brown,13,9,2,1,22,6,1,32,6.4,0.6,7,0.6,6.4
+2003,NFL,Baltimore Ravens*,10,6,0,1st of 4,0,391,281,110,Billick,Lewis,Boller,Lewis,Heap,8,21,6,3,9,6,10,32,6.9,-0.6,6.3,3.3,3
+2019,NFL,Buffalo Bills*,10,6,0,2nd of 4,0,314,259,55,McDermott,White,Allen,Singletary,Brown,23,24,2,3,10,10,9,32,3.4,-1.3,2.2,-3.5,5.7
+2017,NFL,Buffalo Bills*,9,7,0,2nd of 4,0,302,359,-57,McDermott,Taylor,Taylor,McCoy,Clay,22,29,18,26,7,21,29,32,-3.6,-0.5,-4,-3,-1
+2017,NFL,Carolina Panthers*,11,5,0,2nd of 4,0,363,327,36,Rivera,Newton,Newton,Newton,Funchess,12,19,11,7,16,12,14,32,2.3,2.1,4.3,1.7,2.7
+2020,NFL,Chicago Bears*,8,8,0,2nd of 4,0,372,370,2,Nagy,Smith,Trubisky,Montgomery,Robinson,22,26,14,11,23,15,20,32,0.1,0.1,0.2,-2.2,2.4
+2018,NFL,Chicago Bears*,12,4,0,1st of 4,0,421,283,138,Nagy,Mack,Trubisky,Howard,Robinson,9,21,1,3,3,4,5,32,8.6,-2.3,6.3,1.5,4.8
+2015,NFL,Cincinnati Bengals*,12,4,0,1st of 4,0,419,279,140,Lewis,Atkins,Dalton,Hill,Green,7,15,2,11,3,5,12,32,8.8,1.9,10.6,4.8,5.8
+2014,NFL,Cincinnati Bengals*,10,5,1,2nd of 4,0,365,344,21,Lewis,Whitworth,Dalton,Hill,Green,15,15,12,22,16,14,21,32,1.3,-0.6,0.7,-0.5,1.3
+2013,NFL,Cincinnati Bengals*,11,5,0,1st of 4,0,430,305,125,Lewis,Burfict,Dalton,Green-Ellis,Green,6,10,5,3,13,4,4,32,7.8,-2.5,5.4,2.3,3
+2012,NFL,Cincinnati Bengals*,10,6,0,2nd of 4,0,391,320,71,Lewis,Atkins,Dalton,Green-Ellis,Green,12,22,8,6,11,10,11,32,4.4,-2.4,2.1,1.2,0.9
+2011,NFL,Cincinnati Bengals*,9,7,0,3rd of 4,0,344,323,21,Lewis,Atkins,Dalton,Benson,Green,18,20,9,7,17,13,13,32,1.3,-0.9,0.5,0.7,-0.2
+2009,NFL,Cincinnati Bengals*,10,6,0,1st of 4,0,305,291,14,Lewis,Hall,Palmer,Benson,Johnson,22,24,6,4,18,16,16,32,0.9,-0.2,0.7,-2.5,3.2
+2005,NFL,Cincinnati Bengals*,11,5,0,1st of 4,0,421,350,71,Lewis,Anderson,Palmer,Johnson,Johnson,4,6,22,28,1,10,15,32,4.4,-0.6,3.8,6.5,-2.7
+2002,NFL,Cleveland Browns*,9,7,0,2nd of 4,0,344,320,24,Davis,Roye,Couch,Green,Morgan,19,23,10,21,18,15,21,32,1.5,-0.3,1.2,-0.4,1.7
+2021,NFL,Dallas Cowboys*,12,5,0,1st of 4,0,530,358,172,McCarthy,Parsons,Prescott,Elliott,Lamb,1,1,7,19,1,2,4,32,10.1,-0.2,9.9,8.2,1.7
+2006,NFL,Dallas Cowboys*,9,7,0,2nd of 4,0,425,350,75,Parcells,Adams,Romo,Jones,Owens,4,5,20,13,15,7,9,32,4.7,-1,3.7,5,-1.3
+2003,NFL,Dallas Cowboys*,10,6,0,2nd of 4,0,289,260,29,Parcells,Glover,Carter,Hambrick,Glenn,21,15,2,1,22,15,2,32,1.8,-2.3,-0.5,-3.2,2.7
+2004,NFL,Denver Broncos*,10,6,0,2nd of 4,0,381,304,77,Shanahan,Bailey,Plummer,Droughns,Smith,9,5,9,4,24,7,1,32,4.8,1,5.9,1.6,4.3
+2003,NFL,Denver Broncos*,10,6,0,2nd of 4,0,381,301,80,Shanahan,Nalen,Plummer,Portis,Smith,10,7,9,4,22,9,1,32,5,0.5,5.5,2.4,3.1
+2013,NFL,Green Bay Packers*,8,7,1,1st of 4,0,417,428,-11,McCarthy,Sitton,Rodgers,Lacy,Nelson,8,3,24,25,19,16,8,32,-0.7,-2.4,-3.1,0.5,-3.6
+2009,NFL,Green Bay Packers*,11,5,0,2nd of 4,0,461,297,164,McCarthy,Rodgers,Rodgers,Grant,Jennings,3,6,7,2,1,2,1,32,10.3,-2.9,7.4,6.3,1.1
+2004,NFL,Green Bay Packers*,10,6,0,1st of 4,0,424,380,44,Sherman,Favre,Favre,Green,Walker,5,3,23,25,27,11,3,32,2.8,-2.4,0.3,4.3,-4
+2002,NFL,Green Bay Packers*,12,4,0,1st of 4,0,398,328,70,Sherman,Green,Favre,Green,Driver,6,12,12,12,1,6,9,32,4.4,-0.8,3.6,2.4,1.2
+2018,NFL,Houston Texans*,11,5,0,1st of 4,0,402,316,86,O'Brien,Watt,Watson,Miller,Hopkins,11,15,4,12,2,9,13,32,5.4,-1.5,3.8,2.4,1.4
+2015,NFL,Houston Texans*,9,7,0,1st of 4,0,339,313,26,O'Brien,Watt,Hoyer,Blue,Hopkins,21,19,7,3,10,12,6,32,1.6,-2.4,-0.8,-3.3,2.6
+2020,NFL,Indianapolis Colts*,11,5,0,2nd of 4,0,451,362,89,Reich,Buckner,Rivers,Taylor,Hilton,9,10,10,8,2,8,7,32,5.6,-2.8,2.8,1.2,1.6
+2012,NFL,Indianapolis Colts*,11,5,0,2nd of 4,0,357,387,-30,Pagano,Luck,Luck,Ballard,Wayne,18,10,21,26,26,21,18,32,-1.9,-2.8,-4.7,-1.9,-2.8
+2010,NFL,Indianapolis Colts*,10,6,0,1st of 4,0,435,388,47,Caldwell,Manning,Manning,Brown,Wayne,4,4,23,20,19,11,8,32,2.9,-0.1,2.9,3.7,-0.9
+2008,NFL,Indianapolis Colts*,12,4,0,2nd of 4,0,377,298,79,Dungy,Manning,Manning,Addai,Wayne,13,15,7,11,4,9,13,32,4.9,1.6,6.5,2.6,3.9
+2002,NFL,Indianapolis Colts*,10,6,0,2nd of 4,0,349,313,36,Dungy,Harrison,Manning,James,Harrison,17,9,7,8,21,13,8,32,2.3,-1.1,1.2,0.4,0.7
+2005,NFL,Jacksonville Jaguars*,12,4,0,2nd of 4,0,361,269,92,Del Rio,Peterson,Leftwich,Taylor,Smith,12,15,6,6,6,8,10,32,5.8,-1,4.8,1.1,3.7
+2017,NFL,Kansas City Chiefs*,10,6,0,1st of 4,0,415,339,76,Reid,Smith,Smith,Hunt,Hill,6,5,15,28,2,10,12,32,4.8,-1.3,3.4,3.8,-0.3
+2013,NFL,Kansas City Chiefs*,11,5,0,2nd of 4,0,430,305,125,Reid,Charles,Smith,Charles,Charles,6,21,5,24,2,4,25,32,7.8,-1.7,6.1,1.7,4.3
+2010,NFL,Kansas City Chiefs*,10,6,0,1st of 4,0,366,326,40,Haley,Charles,Cassel,Charles,Bowe,14,12,11,14,5,13,10,32,2.5,-3.2,-0.7,-1.5,0.8
+2006,NFL,Kansas City Chiefs*,9,7,0,2nd of 4,0,331,315,16,Edwards,Johnson,Huard,Johnson,Gonzalez,15,16,11,16,10,13,17,32,1,0,1,0.4,0.6
+2021,NFL,Las Vegas Raiders*,10,7,0,2nd of 4,0,374,439,-65,BisacciaGruden,Crosby,Carr,Jacobs,Renfrow,18,11,26,14,27,23,13,32,-3.8,0.6,-3.3,-0.7,-2.6
+2016,NFL,Oakland Raiders*,12,4,0,2nd of 4,0,416,385,31,Del Rio,Mack,Carr,Murray,Cooper,7,6,20,26,1,11,19,32,1.9,1.3,3.3,3.5,-0.3
+2004,NFL,San Diego Chargers*,12,4,0,1st of 4,0,446,313,133,Schottenheimer,Tomlinson,Brees,Tomlinson,Gates,3,10,11,18,3,3,13,32,8.3,0.8,9.1,6.1,3
+2017,NFL,Los Angeles Rams*,11,5,0,1st of 4,0,478,329,149,McVay,Gurley,Goff,Gurley,Kupp,1,10,12,19,9,3,10,32,9.3,-0.2,9.2,8.2,1
+2016,NFL,Miami Dolphins*,10,6,0,2nd of 4,0,363,380,-17,Gase,Suh,Tannehill,Ajayi,Landry,17,24,18,29,13,24,29,32,-1.1,-1.3,-2.4,-0.6,-1.8
+2008,NFL,Miami Dolphins*,11,5,0,1st of 4,0,345,317,28,Sparano,Pennington,Pennington,Brown,Ginn,21,12,9,15,1,16,18,32,1.8,-2.3,-0.5,-2.4,1.8
+2015,NFL,Minnesota Vikings*,11,5,0,1st of 4,0,365,302,63,Zimmer,Bridgewater,Bridgewater,Peterson,Diggs,16,29,5,13,10,9,21,32,3.9,1.9,5.8,1.1,4.7
+2012,NFL,Minnesota Vikings*,10,6,0,2nd of 4,0,379,348,31,Frazier,Peterson,Ponder,Peterson,Harvin,14,20,14,16,17,13,19,32,1.9,1.4,3.4,1.6,1.8
+2008,NFL,Minnesota Vikings*,10,6,0,1st of 4,0,379,333,46,Childress,Allen,Frerotte,Peterson,Berrian,12,17,13,6,24,13,9,32,2.9,1.2,4,1.1,2.9
+2021,NFL,New England Patriots*,10,7,0,2nd of 4,0,462,303,159,Belichick,Judon,Jones,Harris,Meyers,6,15,2,4,8,3,6,32,9.4,-0.9,8.5,3.6,4.8
+2019,NFL,New England Patriots*,12,4,0,1st of 4,0,420,225,195,Belichick,Gilmore,Brady,Michel,Edelman,7,15,1,1,1,2,4,32,12.2,-1.8,10.4,2.8,7.6
+2009,NFL,New England Patriots*,10,6,0,1st of 4,0,427,285,142,Belichick,Brady,Brady,Maroney,Welker,6,3,5,11,8,4,3,32,8.9,2.3,11.2,6.7,4.5
+2019,NFL,New Orleans Saints*,13,3,0,1st of 4,0,458,341,117,Payton,Thomas,Brees,Kamara,Thomas,3,9,13,11,2,5,7,32,7.3,0,7.4,5,2.3
+2010,NFL,New Orleans Saints*,11,5,0,2nd of 4,0,384,307,77,Payton,Evans,Brees,Ivory,Colston,11,6,7,4,23,7,4,32,4.8,-2.5,2.3,1.5,0.8
+2016,NFL,New York Giants*,11,5,0,2nd of 4,0,310,284,26,McAdoo,Harrison,Manning,Jennings,Beckham,26,25,2,10,21,12,22,32,1.6,0.5,2.1,-3.2,5.4
+2006,NFL,New York Giants*,8,8,0,3rd of 4,0,355,362,-7,Coughlin,Barber,Manning,Barber,Burress,11,14,24,25,17,16,19,32,-0.4,0.5,0.1,1.2,-1.1
+2005,NFL,New York Giants*,11,5,0,1st of 4,0,422,314,108,Coughlin,Barber,Manning,Barber,Burress,3,4,14,24,4,6,8,32,6.8,0.7,7.5,5.8,1.7
+2002,NFL,New York Giants*,10,6,0,2nd of 4,0,320,279,41,Fassel,Barber,Collins,Barber,Toomer,22,6,3,9,18,12,5,32,2.6,-1.7,0.8,-2.2,3
+2006,NFL,New York Jets*,10,6,0,2nd of 4,0,316,295,21,Mangini,Pennington,Pennington,Washington,Coles,18,25,6,20,17,12,22,32,1.3,0.7,2,0.4,1.7
+2021,NFL,Philadelphia Eagles*,9,8,0,2nd of 4,0,444,385,59,Sirianni,Hurts,Hurts,Hurts,Smith,12,14,18,10,16,13,8,32,3.5,-1,2.5,2.6,-0.1
+2019,NFL,Philadelphia Eagles*,9,7,0,1st of 4,0,385,354,31,Pederson,Kelce,Wentz,Sanders,Ertz,12,14,15,10,22,11,11,32,1.9,-1.7,0.3,0.7,-0.4
+2013,NFL,Philadelphia Eagles*,10,6,0,1st of 4,0,442,382,60,Kelly,McCoy,Foles,McCoy,Jackson,4,2,17,29,4,9,10,32,3.8,-1.9,1.9,2.3,-0.5
+2010,NFL,Philadelphia Eagles*,10,6,0,1st of 4,0,439,377,62,Reid,Vick,Vick,McCoy,Jackson,3,2,21,12,5,9,5,32,3.9,0.3,4.2,5.4,-1.2
+2009,NFL,Philadelphia Eagles*,11,5,0,2nd of 4,0,429,337,92,Reid,Jackson,McNabb,McCoy,Jackson,5,11,19,12,2,10,11,32,5.8,0.2,6,5.8,0.2
+2021,NFL,Pittsburgh Steelers*,9,7,1,2nd of 4,0,343,398,-55,Tomlin,Heyward,Roethlisberger,Harris,Johnson,21,23,20,24,13,22,25,32,-3.2,0.8,-2.5,-2.6,0.1
+2020,NFL,Pittsburgh Steelers*,12,4,0,1st of 4,0,416,312,104,Tomlin,Watt,Roethlisberger,Conner,Johnson,12,24,3,3,3,7,12,32,6.5,-1.8,4.7,0.3,4.4
+2014,NFL,Pittsburgh Steelers*,11,5,0,1st of 4,0,436,368,68,Tomlin,Bell,Roethlisberger,Bell,Brown,7,2,18,18,16,10,4,32,4.3,-2,2.2,4.4,-2.1
+2011,NFL,Pittsburgh Steelers*,12,4,0,2nd of 4,0,325,227,98,Tomlin,Polamalu,Roethlisberger,Mendenhall,Wallace,21,12,1,1,28,7,1,32,6.1,-0.8,5.3,-0.8,6
+2007,NFL,Pittsburgh Steelers*,10,6,0,1st of 4,0,393,269,124,Tomlin,Faneca,Roethlisberger,Parker,Holmes,9,17,2,1,12,6,3,32,7.8,-2.5,5.2,0.9,4.3
+2020,NFL,Seattle Seahawks*,12,4,0,1st of 4,0,459,371,88,Carroll,Wilson,Wilson,Carson,Metcalf,8,17,15,22,10,9,19,32,5.5,0,5.5,4.8,0.7
+2018,NFL,Seattle Seahawks*,10,6,0,2nd of 4,0,428,347,81,Carroll,Wagner,Wilson,Carson,Lockett,6,18,11,16,1,10,19,32,5.1,-0.6,4.5,3,1.5
+2004,NFL,Seattle Seahawks*,9,7,0,1st of 4,0,371,373,-2,Holmgren,Jones,Hasselbeck,Alexander,Jackson,12,8,22,26,9,16,15,32,-0.1,-2.8,-2.9,0.4,-3.3
+2003,NFL,Seattle Seahawks*,10,6,0,2nd of 4,0,404,327,77,Holmgren,Hutchinson,Hasselbeck,Alexander,Jackson,7,6,15,19,18,10,13,32,4.8,-0.7,4.1,3.6,0.5
+2007,NFL,Tampa Bay Buccaneers*,9,7,0,1st of 4,0,334,270,64,Gruden,Haye,Garcia,Graham,Galloway,18,18,3,2,4,9,6,32,4,-2.8,1.2,-2.3,3.6
+2005,NFL,Tampa Bay Buccaneers*,11,5,0,1st of 4,0,300,274,26,Gruden,Barber,Simms,Williams,Galloway,20,23,8,1,9,14,16,32,1.6,-2.6,-1,-2.8,1.8
+2020,NFL,Tennessee Titans*,11,5,0,1st of 4,0,491,439,52,Vrabel,Tannehill,Tannehill,Henry,Brown,4,2,24,28,1,12,16,32,3.3,-1.7,1.6,4.7,-3.1
+2007,NFL,Tennessee Titans*,10,6,0,3rd of 4,0,301,297,4,Fisher,Haynesworth,Young,White,Gage,22,21,8,5,16,16,12,32,0.3,0.5,0.7,-2.9,3.6
+2020,NFL,Washington Football Team*,7,9,0,1st of 4,0,335,329,6,Rivera,Young,Smith,Gibson,McLaurin,25,30,4,2,23,14,13,32,0.4,-1.2,-0.8,-4.1,3.2
+2015,NFL,Washington Redskins*,9,7,0,1st of 4,0,388,379,9,Gruden,Williams,Cousins,Morris,Reed,10,17,17,28,10,14,23,32,0.6,-2.5,-1.9,-0.2,-1.8
+2012,NFL,Washington Redskins*,10,6,0,1st of 4,0,436,388,48,Shanahan,Griffin,Griffin,Morris,Garcon,4,5,22,28,3,12,13,32,3,0.4,3.4,4.6,-1.2
+2007,NFL,Washington Redskins*,9,7,0,3rd of 4,0,334,310,24,Gibbs,Portis,Campbell,Portis,Moss,18,15,11,8,21,12,9,32,1.5,3,4.5,0.2,4.3
+2020,NFL,Arizona Cardinals,8,8,0,3rd of 4,-1,410,367,43,Kingsbury,Murray,Murray,Drake,Hopkins,13,6,12,13,17,13,11,32,2.7,-0.1,2.6,1.5,1
+2019,NFL,Arizona Cardinals,5,10,1,4th of 4,-1,361,442,-81,Kingsbury,Murray,Murray,Drake,Fitzgerald,16,21,28,32,18,23,29,32,-5.1,1.8,-3.2,-0.3,-2.9
+2018,NFL,Arizona Cardinals,3,13,0,4th of 4,-1,225,425,-200,Wilks,Peterson,Rosen,Johnson,Fitzgerald,32,32,26,20,29,32,32,32,-12.5,1,-11.5,-9.6,-1.9
+2017,NFL,Arizona Cardinals,8,8,0,3rd of 4,-1,295,361,-66,Arians,Jones,Palmer,Peterson,Fitzgerald,25,22,19,6,23,24,15,32,-4.1,0.4,-3.7,-4,0.2
+2016,NFL,Arizona Cardinals,7,8,1,2nd of 4,-1,418,362,56,Arians,Campbell,Palmer,Johnson,Fitzgerald,6,9,14,2,17,7,1,32,3.5,-1.9,1.6,2.4,-0.8
+2013,NFL,Arizona Cardinals,10,6,0,3rd of 4,-1,379,324,55,Arians,Dansby,Palmer,Mendenhall,Floyd,16,12,7,6,17,10,7,32,3.4,3,6.4,2.7,3.7
+2012,NFL,Arizona Cardinals,5,11,0,4th of 4,-1,250,357,-107,Whisenhunt,Washington,Kolb,Stephens-Howling,Fitzgerald,31,32,17,12,17,27,31,32,-6.7,3.5,-3.2,-4.8,1.6
+2011,NFL,Arizona Cardinals,8,8,0,2nd of 4,-1,312,348,-36,Whisenhunt,Peterson,Kolb,Wells,Fitzgerald,24,19,17,18,28,21,25,32,-2.3,0,-2.2,-1.7,-0.5
+2010,NFL,Arizona Cardinals,5,11,0,4th of 4,-1,289,434,-145,Whisenhunt,Dockett,Anderson,Hightower,Fitzgerald,26,31,30,29,22,31,32,32,-9.1,-3.6,-12.7,-5.6,-7.1
+2007,NFL,Arizona Cardinals,8,8,0,2nd of 4,-1,404,399,5,Whisenhunt,Fitzgerald,Warner,James,Fitzgerald,7,12,27,17,22,15,13,32,0.3,-4.3,-3.9,1.9,-5.9
+2006,NFL,Arizona Cardinals,5,11,0,4th of 4,-1,314,389,-75,Green,Wilson,Leinart,James,Boldin,19,18,29,29,12,25,25,32,-4.7,-2.2,-6.9,-2.6,-4.3
+2005,NFL,Arizona Cardinals,5,11,0,3rd of 4,-1,311,387,-76,Green,Fitzgerald,Warner,Shipp,Fitzgerald,17,8,26,8,30,23,3,32,-4.8,-0.2,-5,-2,-3
+2004,NFL,Arizona Cardinals,6,10,0,3rd of 4,-1,284,322,-38,Green,Berry,McCown,Smith,Fitzgerald,26,27,12,12,18,21,26,32,-2.4,-2.5,-4.9,-5.1,0.2
+2003,NFL,Arizona Cardinals,4,12,0,4th of 4,-1,225,452,-227,McGinnis,Boldin,Blake,Shipp,Boldin,32,27,32,26,30,32,28,32,-14.2,1.6,-12.6,-6.3,-6.2
+2002,NFL,Arizona Cardinals,5,11,0,4th of 4,-1,262,417,-155,McGinnis,Shipp,Plummer,Shipp,Boston,29,27,29,29,27,31,30,32,-9.7,-0.2,-9.9,-5.4,-4.5
+2021,NFL,Atlanta Falcons,7,10,0,3rd of 4,-1,313,459,-146,Smith,Terrell,Ryan,Patterson,Pitts,26,29,29,26,25,28,29,32,-8.6,0.1,-8.5,-4.2,-4.3
+2020,NFL,Atlanta Falcons,4,12,0,4th of 4,-1,396,414,-18,MorrisQuinn,Ryan,Ryan,Gurley,Ridley,16,18,19,29,13,18,25,32,-1.1,1.9,0.7,-0.1,0.8
+2019,NFL,Atlanta Falcons,7,9,0,2nd of 4,-1,381,399,-18,Quinn,Jarrett,Ryan,Freeman,Jones,13,5,23,20,24,19,12,32,-1.1,1.1,-0.1,0.3,-0.4
+2018,NFL,Atlanta Falcons,7,9,0,2nd of 4,-1,414,423,-9,Quinn,Ryan,Ryan,Coleman,Jones,10,6,25,28,15,17,17,32,-0.6,0.4,-0.1,2.5,-2.6
+2015,NFL,Atlanta Falcons,8,8,0,2nd of 4,-1,339,345,-6,Quinn,Jones,Ryan,Freeman,Jones,21,7,14,16,27,15,10,32,-0.4,-3.4,-3.8,-4,0.3
+2014,NFL,Atlanta Falcons,6,10,0,3rd of 4,-1,381,417,-36,Smith,Ryan,Ryan,Jackson,Jones,12,8,27,32,11,24,23,32,-2.3,-1.6,-3.8,0.6,-4.4
+2013,NFL,Atlanta Falcons,4,12,0,3rd of 4,-1,353,443,-90,Smith,Ryan,Ryan,Jackson,Douglas,20,14,27,27,24,25,26,32,-5.6,2.9,-2.8,1.2,-3.9
+2009,NFL,Atlanta Falcons,9,7,0,2nd of 4,-1,363,325,38,Smith,White,Ryan,Turner,White,13,16,14,21,11,15,19,32,2.4,2.7,5,2.7,2.3
+2007,NFL,Atlanta Falcons,4,12,0,4th of 4,-1,259,414,-155,PetrinoThomas,White,Harrington,Dunn,White,29,23,29,29,10,30,27,32,-9.7,-0.9,-10.6,-5.8,-4.8
+2006,NFL,Atlanta Falcons,7,9,0,3rd of 4,-1,292,328,-36,Mora,Vick,Vick,Dunn,Crumpler,25,12,15,22,8,21,16,32,-2.3,-0.8,-3,-2.8,-0.2
+2005,NFL,Atlanta Falcons,8,8,0,3rd of 4,-1,351,341,10,Mora,Dunn,Vick,Dunn,Crumpler,14,12,18,22,17,16,20,32,0.6,-1.9,-1.2,1.1,-2.3
+2003,NFL,Atlanta Falcons,5,11,0,4th of 4,-1,299,422,-123,ReevesPhillips,Brooking,Johnson,Duckett,Price,20,29,30,32,14,28,31,32,-7.7,0.3,-7.4,-2,-5.4
+2021,NFL,Baltimore Ravens,8,9,0,4th of 4,-1,387,392,-5,Harbaugh,Jackson,Jackson,Jackson,Andrews,17,6,19,25,28,19,14,32,-0.3,0,-0.3,-0.3,0
+2017,NFL,Baltimore Ravens,9,7,0,2nd of 4,-1,395,303,92,Harbaugh,Mosley,Flacco,Collins,Wallace,9,27,6,12,1,8,21,32,5.8,-2.4,3.4,2.2,1.2
+2016,NFL,Baltimore Ravens,8,8,0,2nd of 4,-1,343,321,22,Harbaugh,Orr,Flacco,West,Wallace,21,17,9,7,9,13,8,32,1.4,0.2,1.5,-1.1,2.6
+2015,NFL,Baltimore Ravens,5,11,0,3rd of 4,-1,328,401,-73,Harbaugh,Yanda,Flacco,Forsett,Aiken,25,14,24,8,30,24,11,32,-4.6,2.6,-1.9,-0.7,-1.2
+2013,NFL,Baltimore Ravens,8,8,0,3rd of 4,-1,320,352,-32,Harbaugh,Suggs,Flacco,Rice,Smith,25,29,12,12,22,20,23,32,-2,-1.5,-3.5,-5,1.4
+2007,NFL,Baltimore Ravens,5,11,0,4th of 4,-1,275,384,-109,Billick,Reed,Boller,McGahee,Mason,24,22,22,6,32,26,16,32,-6.8,0.1,-6.7,-5,-1.8
+2005,NFL,Baltimore Ravens,6,10,0,3rd of 4,-1,265,299,-34,Billick,Thomas,Boller,Lewis,Mason,25,24,10,5,28,18,17,32,-2.1,0.3,-1.8,-3.5,1.7
+2004,NFL,Baltimore Ravens,9,7,0,2nd of 4,-1,317,268,49,Billick,Lewis,Boller,Lewis,Taylor,20,31,6,6,5,9,23,32,3.1,3.1,6.1,-0.6,6.8
+2002,NFL,Baltimore Ravens,7,9,0,3rd of 4,-1,316,354,-38,Billick,Ogden,Blake,Lewis,Taylor,23,26,19,22,17,22,27,32,-2.4,0.3,-2.1,-1.5,-0.6
+2018,NFL,Buffalo Bills,6,10,0,3rd of 4,-1,269,374,-105,McDermott,Williams,Allen,Allen,Jones,30,30,18,2,23,28,18,32,-6.6,-0.3,-6.9,-6.3,-0.6
+2016,NFL,Buffalo Bills,7,9,0,3rd of 4,-1,399,378,21,RyanLynn,Taylor,Taylor,McCoy,Woods,10,16,16,19,7,14,20,32,1.3,-1.6,-0.3,1.8,-2.2
+2015,NFL,Buffalo Bills,8,8,0,3rd of 4,-1,379,359,20,Ryan,Taylor,Taylor,McCoy,Watkins,12,13,15,19,8,13,14,32,1.3,-1.2,0,0.3,-0.2
+2014,NFL,Buffalo Bills,9,7,0,2nd of 4,-1,343,289,54,Marrone,Williams,Orton,Jackson,Watkins,18,26,4,4,6,12,14,32,3.4,1.6,4.9,-0.4,5.3
+2013,NFL,Buffalo Bills,6,10,0,4th of 4,-1,339,388,-49,Marrone,Williams,Manuel,Spiller,Chandler,22,19,20,10,12,22,16,32,-3.1,-0.1,-3.2,-1.3,-1.9
+2012,NFL,Buffalo Bills,6,10,0,4th of 4,-1,344,435,-91,Gailey,Spiller,Fitzpatrick,Spiller,Johnson,21,19,26,22,27,25,22,32,-5.7,-1,-6.7,-0.9,-5.8
+2011,NFL,Buffalo Bills,6,10,0,4th of 4,-1,372,434,-62,Gailey,Fitzpatrick,Fitzpatrick,Jackson,Johnson,14,14,30,26,13,22,19,32,-3.9,0.5,-3.4,1.2,-4.5
+2010,NFL,Buffalo Bills,4,12,0,4th of 4,-1,283,425,-142,Gailey,Williams,Fitzpatrick,Jackson,Johnson,28,25,28,24,32,30,27,32,-8.9,4.3,-4.6,-1.5,-3.1
+2009,NFL,Buffalo Bills,6,10,0,4th of 4,-1,258,326,-68,JauronFewell,Schobel,Fitzpatrick,Jackson,Owens,28,30,16,19,11,23,26,32,-4.3,2.4,-1.8,-4.5,2.7
+2008,NFL,Buffalo Bills,7,9,0,4th of 4,-1,336,342,-6,Jauron,Peters,Edwards,Lynch,Evans,23,25,14,14,27,20,24,32,-0.4,-3,-3.3,-2.8,-0.6
+2007,NFL,Buffalo Bills,7,9,0,2nd of 4,-1,252,354,-102,Jauron,Schobel,Edwards,Lynch,Evans,30,30,18,31,6,25,31,32,-6.4,2.3,-4.1,-5.6,1.5
+2006,NFL,Buffalo Bills,7,9,0,3rd of 4,-1,300,311,-11,Jauron,Schobel,Losman,McGahee,Evans,23,30,10,18,23,17,30,32,-0.7,2.9,2.2,-0.2,2.4
+2005,NFL,Buffalo Bills,5,11,0,3rd of 4,-1,271,367,-96,Mularkey,McGee,Holcomb,McGahee,Moulds,24,28,24,29,13,27,30,32,-6,0.2,-5.8,-4,-1.8
+2004,NFL,Buffalo Bills,9,7,0,3rd of 4,-1,395,284,111,Mularkey,Spikes,Bledsoe,McGahee,Moulds,7,25,8,2,7,6,10,32,6.9,1.1,8.1,4.6,3.5
+2003,NFL,Buffalo Bills,6,10,0,3rd of 4,-1,243,279,-36,Williams,Spikes,Bledsoe,Henry,Moulds,30,30,5,2,31,20,17,32,-2.3,1.3,-1,-5,4
+2002,NFL,Buffalo Bills,8,8,0,4th of 4,-1,379,397,-18,Williams,Bledsoe,Bledsoe,Henry,Moulds,11,11,27,15,28,20,13,32,-1.1,0.9,-0.3,2.1,-2.3
+2021,NFL,Carolina Panthers,5,12,0,4th of 4,-1,304,404,-100,Rhule,Chinn,Darnold,Hubbard,Moore,29,30,21,2,29,26,19,32,-5.9,0.4,-5.5,-5,-0.5
+2020,NFL,Carolina Panthers,5,11,0,3rd of 4,-1,350,402,-52,Rhule,Chinn,Bridgewater,Davis,Moore,24,21,18,18,16,23,18,32,-3.3,2.2,-1.1,-2.4,1.3
+2019,NFL,Carolina Panthers,5,11,0,4th of 4,-1,340,470,-130,RiveraFewell,McCaffrey,Allen,McCaffrey,Moore,20,19,31,23,29,29,23,32,-8.1,1.1,-7,-1.9,-5.1
+2018,NFL,Carolina Panthers,7,9,0,3rd of 4,-1,376,382,-6,Rivera,McCaffrey,Newton,McCaffrey,McCaffrey,14,10,19,15,15,16,12,32,-0.4,1.3,0.9,0.1,0.8
+2016,NFL,Carolina Panthers,6,10,0,4th of 4,-1,369,402,-33,Rivera,Newton,Newton,Stewart,Olsen,15,19,26,21,21,25,25,32,-2.1,1.1,-1,-0.2,-0.8
+2012,NFL,Carolina Panthers,7,9,0,2nd of 4,-1,357,363,-6,Rivera,Newton,Newton,Newton,Smith,18,12,18,10,16,18,8,32,-0.4,1.2,0.8,-0.5,1.3
+2011,NFL,Carolina Panthers,6,10,0,3rd of 4,-1,406,429,-23,Rivera,Newton,Newton,Williams,Smith,5,7,27,28,13,20,11,32,-1.4,0.1,-1.3,2.6,-3.9
+2010,NFL,Carolina Panthers,2,14,0,4th of 4,-1,196,408,-212,Fox,Beason,Clausen,Stewart,Smith,32,32,26,18,25,32,31,32,-13.3,0.1,-13.2,-9.1,-4.1
+2009,NFL,Carolina Panthers,8,8,0,3rd of 4,-1,315,308,7,Fox,Beason,Delhomme,Stewart,Smith,21,19,9,8,8,17,15,32,0.4,3.5,3.9,-0.6,4.5
+2007,NFL,Carolina Panthers,7,9,0,2nd of 4,-1,267,347,-80,Fox,Smith,Testaverde,Foster,Smith,26,29,15,16,13,21,23,32,-5,-0.8,-5.8,-5.7,-0.1
+2006,NFL,Carolina Panthers,8,8,0,2nd of 4,-1,270,305,-35,Fox,Peppers,Delhomme,Foster,Smith,27,24,8,7,23,20,14,32,-2.2,-0.5,-2.7,-4.2,1.5
+2004,NFL,Carolina Panthers,7,9,0,3rd of 4,-1,355,339,16,Fox,Peppers,Delhomme,Goings,Muhammad,13,13,15,20,4,12,19,32,1,-1.7,-0.7,-0.8,0.1
+2002,NFL,Carolina Panthers,7,9,0,4th of 4,-1,258,302,-44,Fox,Jenkins,Peete,Smith,Smith,30,31,5,2,23,23,22,32,-2.8,-0.5,-3.3,-6,2.8
+2021,NFL,Chicago Bears,6,11,0,3rd of 4,-1,311,407,-96,Nagy,Smith,Fields,Montgomery,Mooney,27,24,22,6,29,24,20,32,-5.6,0.5,-5.2,-4.9,-0.3
+2019,NFL,Chicago Bears,8,8,0,3rd of 4,-1,280,298,-18,Nagy,Mack,Trubisky,Montgomery,Robinson,29,29,4,8,15,19,21,32,-1.1,0.2,-0.9,-5.4,4.5
+2017,NFL,Chicago Bears,5,11,0,4th of 4,-1,264,320,-56,Fox,Hicks,Trubisky,Howard,Wright,29,30,9,10,15,20,26,32,-3.5,2.2,-1.3,-4.6,3.3
+2016,NFL,Chicago Bears,3,13,0,4th of 4,-1,279,399,-120,Fox,Howard,Barkley,Howard,Meredith,28,15,24,15,31,28,12,32,-7.5,0,-7.5,-5.2,-2.3
+2015,NFL,Chicago Bears,6,10,0,4th of 4,-1,335,397,-62,Fox,Cutler,Cutler,Forte,Jeffery,23,21,20,14,19,21,16,32,-3.9,2.6,-1.3,-0.1,-1.2
+2014,NFL,Chicago Bears,5,11,0,4th of 4,-1,319,442,-123,Trestman,Forte,Cutler,Forte,Jeffery,23,21,31,30,22,27,28,32,-7.7,1,-6.7,-2,-4.7
+2013,NFL,Chicago Bears,8,8,0,2nd of 4,-1,445,478,-33,Trestman,Forte,Cutler,Forte,Jeffery,2,8,30,30,11,21,19,32,-2.1,-2.1,-4.1,3,-7.1
+2012,NFL,Chicago Bears,10,6,0,3rd of 4,-1,375,277,98,Smith,Tillman,Cutler,Forte,Marshall,16,28,3,5,2,6,16,32,6.1,0.8,6.9,1,6
+2011,NFL,Chicago Bears,8,8,0,3rd of 4,-1,353,341,12,Smith,Peppers,Cutler,Forte,Knox,17,24,14,17,11,16,26,32,0.8,0.9,1.7,-1.5,3.1
+2009,NFL,Chicago Bears,7,9,0,3rd of 4,-1,327,375,-48,Smith,Cutler,Cutler,Forte,Hester,19,23,21,17,23,21,23,32,-3,-0.9,-3.9,-1.9,-2
+2008,NFL,Chicago Bears,9,7,0,2nd of 4,-1,375,350,25,Smith,Briggs,Orton,Forte,Hester,14,26,16,21,8,17,25,32,1.6,0.5,2.1,1.1,1
+2007,NFL,Chicago Bears,7,9,0,4th of 4,-1,334,348,-14,Smith,Urlacher,Griese,Benson,Berrian,18,27,16,28,17,20,30,32,-0.9,2.1,1.2,-0.2,1.4
+2004,NFL,Chicago Bears,5,11,0,4th of 4,-1,231,331,-100,Smith,Briggs,Hutchinson,Jones,Terrell,32,32,13,21,23,28,32,32,-6.3,-2,-8.2,-8.5,0.3
+2003,NFL,Chicago Bears,7,9,0,3rd of 4,-1,283,346,-63,Jauron,Azumah,Stewart,Thomas,Booker,23,28,22,14,27,23,26,32,-3.9,0.4,-3.5,-4.2,0.7
+2002,NFL,Chicago Bears,4,12,0,3rd of 4,-1,281,379,-98,Jauron,Urlacher,Miller,Thomas,Booker,27,29,25,25,23,27,29,32,-6.1,0.9,-5.3,-4.4,-0.9
+2020,NFL,Cincinnati Bengals,4,11,1,4th of 4,-1,311,424,-113,Taylor,Bates,Burrow,Mixon,Higgins,29,29,22,26,25,28,29,32,-7.1,-0.4,-7.5,-5.4,-2.1
+2019,NFL,Cincinnati Bengals,2,14,0,4th of 4,-1,279,420,-141,Taylor,Atkins,Dalton,Mixon,Boyd,30,26,25,29,29,30,30,32,-8.8,1.5,-7.3,-4.4,-2.9
+2018,NFL,Cincinnati Bengals,6,10,0,4th of 4,-1,368,455,-87,Lewis,Mixon,Dalton,Mixon,Boyd,17,26,30,32,15,26,31,32,-5.4,2,-3.4,0,-3.4
+2017,NFL,Cincinnati Bengals,7,9,0,3rd of 4,-1,290,349,-59,Lewis,Dalton,Dalton,Mixon,Green,26,32,16,18,27,22,30,32,-3.7,-1.3,-5,-4.1,-0.9
+2016,NFL,Cincinnati Bengals,6,9,1,3rd of 4,-1,325,315,10,Lewis,Dalton,Dalton,Hill,Green,24,13,8,17,12,19,15,32,0.6,0.4,1,-1.5,2.5
+2010,NFL,Cincinnati Bengals,4,12,0,4th of 4,-1,322,395,-73,Lewis,Palmer,Palmer,Benson,Owens,22,20,24,15,25,26,18,32,-4.6,3.1,-1.4,0.4,-1.9
+2008,NFL,Cincinnati Bengals,4,11,1,3rd of 4,-1,204,364,-160,Lewis,Hall,Fitzpatrick,Benson,Houshmandzadeh,32,32,19,12,20,30,26,32,-10,3,-7,-6.9,-0.1
+2007,NFL,Cincinnati Bengals,7,9,0,3rd of 4,-1,380,385,-5,Lewis,Palmer,Palmer,Watson,Johnson,11,10,24,27,8,17,17,32,-0.3,-2.1,-2.4,1.6,-4
+2006,NFL,Cincinnati Bengals,8,8,0,2nd of 4,-1,373,331,42,Lewis,Anderson,Palmer,Johnson,Johnson,8,8,17,30,6,10,18,32,2.6,1.5,4.1,4,0
+2004,NFL,Cincinnati Bengals,8,8,0,3rd of 4,-1,374,372,2,Lewis,Anderson,Palmer,Johnson,Johnson,10,18,21,19,14,15,20,32,0.1,2.5,2.7,4.3,-1.6
+2003,NFL,Cincinnati Bengals,8,8,0,2nd of 4,-1,346,384,-38,Lewis,Anderson,Kitna,Johnson,Johnson,13,13,28,28,10,21,21,32,-2.4,0,-2.4,1.1,-3.5
+2002,NFL,Cincinnati Bengals,2,14,0,4th of 4,-1,279,456,-177,LeBeau,Dillon,Kitna,Dillon,Johnson,28,18,32,17,30,32,18,32,-11.1,0.6,-10.5,-3.6,-6.9
+2021,NFL,Cleveland Browns,8,9,0,3rd of 4,-1,349,371,-22,Stefanski,Garrett,Mayfield,Chubb,Peoples-Jones,20,18,13,5,20,20,10,32,-1.3,0,-1.3,-2.7,1.3
+2019,NFL,Cleveland Browns,6,10,0,3rd of 4,-1,335,393,-58,Kitchens,Chubb,Mayfield,Chubb,Landry,22,22,20,22,26,22,19,32,-3.6,1.7,-1.9,-0.4,-1.5
+2018,NFL,Cleveland Browns,7,8,1,3rd of 4,-1,359,392,-33,WilliamsJackson,Garrett,Mayfield,Chubb,Landry,20,13,21,30,8,20,26,32,-2.1,1.7,-0.3,-1,0.6
+2017,NFL,Cleveland Browns,0,16,0,4th of 4,-1,234,410,-176,Jackson,Schobert,Kizer,Crowell,Johnson,32,24,31,14,32,32,20,32,-11,0,-11,-6.8,-4.1
+2016,NFL,Cleveland Browns,1,15,0,4th of 4,-1,264,452,-188,Jackson,Thomas,Kessler,Crowell,Pryor,31,30,30,31,29,32,31,32,-11.8,1.7,-10.1,-5.2,-4.9
+2015,NFL,Cleveland Browns,3,13,0,4th of 4,-1,278,432,-154,Pettine,Thomas,McCown,Crowell,Barnidge,30,25,29,27,28,32,28,32,-9.6,3.5,-6.1,-3.2,-2.9
+2014,NFL,Cleveland Browns,7,9,0,4th of 4,-1,299,337,-38,Pettine,Thomas,Hoyer,West,Hawkins,27,23,9,23,9,25,26,32,-2.4,-1.5,-3.9,-4.8,0.9
+2013,NFL,Cleveland Browns,4,12,0,4th of 4,-1,308,406,-98,Chudzinski,Haden,Campbell,McGahee,Gordon,27,18,23,9,25,27,15,32,-6.1,-1.6,-7.7,-4.8,-2.9
+2012,NFL,Cleveland Browns,5,11,0,4th of 4,-1,302,368,-66,Shurmur,Thomas,Weeden,Richardson,Gordon,24,25,19,23,12,24,29,32,-4.1,-1.2,-5.3,-4.6,-0.7
+2011,NFL,Cleveland Browns,4,12,0,4th of 4,-1,218,307,-89,Shurmur,Thomas,McCoy,Hillis,Little,30,29,5,10,13,27,28,32,-5.6,0.2,-5.4,-7.2,1.8
+2010,NFL,Cleveland Browns,5,11,0,3rd of 4,-1,271,332,-61,Mangini,Thomas,McCoy,Hillis,Watson,31,29,13,22,15,23,28,32,-3.8,2.3,-1.5,-3.4,2
+2009,NFL,Cleveland Browns,5,11,0,4th of 4,-1,245,375,-130,Mangini,Thomas,Quinn,Harrison,Massaquoi,29,32,21,31,29,27,32,32,-8.1,-0.3,-8.4,-6,-2.4
+2008,NFL,Cleveland Browns,4,12,0,4th of 4,-1,232,350,-118,Crennel,Rogers,Anderson,Lewis,Edwards,30,31,16,26,8,27,31,32,-7.4,2.7,-4.6,-5.2,0.6
+2007,NFL,Cleveland Browns,10,6,0,2nd of 4,-1,402,382,20,Crennel,Anderson,Anderson,Lewis,Edwards,8,8,21,30,19,14,20,32,1.3,-2.3,-1.1,2.2,-3.3
+2006,NFL,Cleveland Browns,4,12,0,4th of 4,-1,238,356,-118,Crennel,Wimbley,Frye,Droughns,Edwards,30,31,22,27,31,30,32,32,-7.4,1.5,-5.8,-4.5,-1.3
+2005,NFL,Cleveland Browns,6,10,0,4th of 4,-1,232,301,-69,Crennel,Droughns,Dilfer,Droughns,Bryant,32,26,11,16,23,22,26,32,-4.3,0.1,-4.2,-6,1.7
+2004,NFL,Cleveland Browns,4,12,0,4th of 4,-1,276,390,-114,DavisRobiskie,Lang,Garcia,Suggs,Northcutt,27,28,24,15,26,30,28,32,-7.1,3.7,-3.4,-1.5,-1.9
+2003,NFL,Cleveland Browns,5,11,0,4th of 4,-1,254,322,-68,Davis,Lang,Holcomb,Green,Northcutt,29,26,12,15,28,24,25,32,-4.3,1.3,-2.9,-5.3,2.4
+2020,NFL,Dallas Cowboys,6,10,0,3rd of 4,-1,395,473,-78,McCarthy,Lamb,Dalton,Elliott,Cooper,17,14,28,23,21,25,21,32,-4.9,-0.2,-5.1,1,-6.1
+2019,NFL,Dallas Cowboys,8,8,0,2nd of 4,-1,434,321,113,Garrett,Martin,Prescott,Elliott,Cooper,6,1,11,9,18,6,2,32,7.1,-1.8,5.3,3.8,1.5
+2017,NFL,Dallas Cowboys,9,7,0,2nd of 4,-1,354,332,22,Garrett,Lawrence,Prescott,Elliott,Bryant,14,14,13,8,16,15,11,32,1.4,0.2,1.6,0.4,1.2
+2015,NFL,Dallas Cowboys,4,12,0,4th of 4,-1,275,374,-99,Garrett,Lee,Cassel,McFadden,Williams,31,22,16,17,32,29,20,32,-6.2,-0.7,-6.9,-7,0.1
+2013,NFL,Dallas Cowboys,8,8,0,2nd of 4,-1,439,432,7,Garrett,Smith,Romo,Murray,Bryant,5,16,26,32,9,15,31,32,0.4,-1.1,-0.7,2.7,-3.4
+2012,NFL,Dallas Cowboys,8,8,0,3rd of 4,-1,376,400,-24,Garrett,Romo,Romo,Murray,Bryant,15,6,24,19,27,19,10,32,-1.5,1.8,0.3,1.4,-1.2
+2011,NFL,Dallas Cowboys,8,8,0,3rd of 4,-1,369,347,22,Garrett,Ware,Romo,Murray,Witten,15,11,16,14,10,12,8,32,1.4,0.3,1.6,0.7,0.9
+2010,NFL,Dallas Cowboys,6,10,0,3rd of 4,-1,394,436,-42,GarrettPhillips,Ware,Kitna,Jones,Austin,7,7,31,23,13,21,12,32,-2.6,0.5,-2.2,2.5,-4.7
+2008,NFL,Dallas Cowboys,9,7,0,3rd of 4,-1,362,365,-3,Phillips,Ware,Romo,Barber,Owens,18,13,20,8,30,19,7,32,-0.2,0.8,0.6,1.7,-1.2
+2005,NFL,Dallas Cowboys,9,7,0,3rd of 4,-1,325,308,17,Parcells,Williams,Bledsoe,Jones,Glenn,15,13,12,10,19,15,13,32,1.1,2.1,3.2,-0.1,3.2
+2004,NFL,Dallas Cowboys,6,10,0,3rd of 4,-1,293,405,-112,Parcells,Allen,Testaverde,Jones,Johnson,25,14,27,16,28,29,16,32,-7,-0.8,-7.8,-3,-4.8
+2002,NFL,Dallas Cowboys,5,11,0,4th of 4,-1,217,329,-112,Campo,Glover,Hutchinson,Smith,Galloway,31,30,13,18,20,28,28,32,-7,-1.5,-8.5,-8.2,-0.3
+2021,NFL,Denver Broncos,7,10,0,4th of 4,-1,335,322,13,Fangio,Simmons,Bridgewater,Gordon,Sutton,23,19,3,8,15,17,17,32,0.8,-1.3,-0.5,-4.7,4.2
+2020,NFL,Denver Broncos,5,11,0,4th of 4,-1,323,446,-123,Fangio,Bolles,Lock,Gordon,Jeudy,28,23,25,21,32,29,26,32,-7.7,1.7,-6,-4.3,-1.7
+2019,NFL,Denver Broncos,7,9,0,2nd of 4,-1,282,316,-34,Fangio,Simmons,Flacco,Lindsay,Sutton,28,28,10,12,13,21,25,32,-2.1,0,-2.1,-4.8,2.7
+2018,NFL,Denver Broncos,6,10,0,3rd of 4,-1,329,349,-20,Joseph,Miller,Keenum,Lindsay,Sanders,24,19,13,22,8,18,23,32,-1.3,0.7,-0.5,-3.6,3.1
+2017,NFL,Denver Broncos,5,11,0,4th of 4,-1,289,382,-93,Joseph,Miller,Siemian,Anderson,Thomas,27,17,22,3,31,27,8,32,-5.8,-0.9,-6.7,-3.9,-2.9
+2016,NFL,Denver Broncos,9,7,0,3rd of 4,-1,333,297,36,Kubiak,Miller,Siemian,Booker,Thomas,22,27,4,4,13,9,14,32,2.3,1.8,4,-2,6.1
+2010,NFL,Denver Broncos,4,12,0,4th of 4,-1,344,471,-127,McDanielsStudesville,Lloyd,Orton,Moreno,Lloyd,19,13,32,32,27,29,25,32,-7.9,-1,-8.9,-1.1,-7.8
+2009,NFL,Denver Broncos,8,8,0,2nd of 4,-1,326,324,2,McDaniels,Dumervil,Orton,Moreno,Marshall,20,15,12,7,7,18,13,32,0.1,0.2,0.3,-1,1.3
+2008,NFL,Denver Broncos,8,8,0,2nd of 4,-1,370,448,-78,Shanahan,Cutler,Cutler,Hillis,Marshall,16,2,30,29,31,25,14,32,-4.9,-0.9,-5.8,0.7,-6.5
+2007,NFL,Denver Broncos,7,9,0,2nd of 4,-1,320,409,-89,Shanahan,Bailey,Cutler,Young,Marshall,21,11,28,19,13,23,15,32,-5.6,1.6,-3.9,-0.2,-3.8
+2006,NFL,Denver Broncos,9,7,0,3rd of 4,-1,319,305,14,Shanahan,Bailey,Plummer,Bell,Walker,17,21,8,14,17,14,20,32,0.9,0.4,1.3,-0.8,2.1
+2002,NFL,Denver Broncos,9,7,0,2nd of 4,-1,392,344,48,Shanahan,Portis,Griese,Portis,Smith,7,3,15,6,21,8,1,32,3,1.9,4.9,3,1.9
+2018,NFL,Green Bay Packers,6,9,1,3rd of 4,-1,376,400,-24,McCarthyPhilbin,Bakhtiari,Rodgers,Jones,Adams,14,12,22,18,19,19,14,32,-1.5,-1.2,-2.7,0,-2.7
+2017,NFL,Green Bay Packers,7,9,0,3rd of 4,-1,320,384,-64,McCarthy,Bakhtiari,Hundley,Williams,Adams,21,26,26,22,20,23,27,32,-4,2.1,-1.9,-0.3,-1.6
+2008,NFL,Green Bay Packers,6,10,0,3rd of 4,-1,419,380,39,McCarthy,Rodgers,Rodgers,Grant,Jennings,5,8,22,20,6,14,17,32,2.4,0.5,2.9,4.1,-1.2
+2006,NFL,Green Bay Packers,8,8,0,2nd of 4,-1,301,366,-65,McCarthy,Kampman,Favre,Green,Driver,22,9,25,12,17,23,13,32,-4.1,-0.4,-4.4,-2.3,-2.1
+2005,NFL,Green Bay Packers,4,12,0,4th of 4,-1,298,344,-46,Sherman,Driver,Favre,Gado,Driver,22,18,19,7,31,20,11,32,-2.9,-0.8,-3.7,-1.5,-2.2
+2021,NFL,Houston Texans,4,13,0,3rd of 4,-1,280,452,-172,Culley,Cooks,Mills,Burkhead,Cooks,30,32,27,31,12,30,32,32,-10.1,0.4,-9.7,-6.3,-3.4
+2020,NFL,Houston Texans,4,12,0,3rd of 4,-1,384,464,-80,CrennelO'Brien,Watson,Watson,Johnson,Cooks,18,13,27,30,27,26,27,32,-5,-0.5,-5.5,-1.4,-4.1
+2017,NFL,Houston Texans,4,12,0,3rd of 4,-1,338,436,-98,O'Brien,Hopkins,Watson,Miller,Hopkins,17,20,32,20,28,28,24,32,-6.1,-0.3,-6.4,-0.8,-5.6
+2014,NFL,Houston Texans,9,7,0,2nd of 4,-1,372,307,65,O'Brien,Watt,Fitzpatrick,Foster,Hopkins,14,17,7,16,2,11,19,32,4.1,-2.3,1.7,-0.8,2.5
+2013,NFL,Houston Texans,2,14,0,4th of 4,-1,276,428,-152,KubiakPhillips,Watt,Schaub,Tate,Johnson,31,11,24,7,32,31,6,32,-9.5,1.9,-7.6,-5,-2.6
+2010,NFL,Houston Texans,6,10,0,3rd of 4,-1,390,427,-37,Kubiak,Foster,Schaub,Foster,Johnson,9,3,29,30,13,18,13,32,-2.3,0.5,-1.8,1.8,-3.7
+2009,NFL,Houston Texans,9,7,0,2nd of 4,-1,388,333,55,Kubiak,Schaub,Schaub,Slaton,Johnson,10,4,17,13,19,11,7,32,3.4,-1.5,2,2.7,-0.7
+2008,NFL,Houston Texans,8,8,0,3rd of 4,-1,366,394,-28,Kubiak,Johnson,Schaub,Slaton,Johnson,17,3,27,22,29,21,8,32,-1.8,1.4,-0.4,2.8,-3.2
+2007,NFL,Houston Texans,8,8,0,4th of 4,-1,379,384,-5,Kubiak,Williams,Schaub,Dayne,Johnson,12,14,22,24,31,17,21,32,-0.3,0.3,0,2.5,-2.5
+2006,NFL,Houston Texans,6,10,0,4th of 4,-1,267,366,-99,Kubiak,Johnson,Carr,Dayne,Johnson,28,28,25,24,21,28,28,32,-6.2,1.7,-4.5,-3.2,-1.3
+2005,NFL,Houston Texans,2,14,0,4th of 4,-1,260,431,-171,Capers,Williams,Carr,Williams,Johnson,26,30,32,31,25,31,31,32,-10.7,0.7,-10,-4.4,-5.7
+2004,NFL,Houston Texans,7,9,0,3rd of 4,-1,309,339,-30,Capers,Carr,Carr,Williams,Johnson,21,19,15,23,13,20,22,32,-1.9,1.2,-0.6,-2.4,1.8
+2003,NFL,Houston Texans,5,11,0,4th of 4,-1,255,380,-125,Capers,Williams,Carr,Williams,Johnson,28,31,27,31,25,29,32,32,-7.8,1.9,-6,-4.4,-1.5
+2002,NFL,Houston Texans,4,12,0,4th of 4,-1,213,356,-143,Capers,Glenn,Carr,Wells,Bradford,32,32,20,16,26,29,32,32,-8.9,-0.5,-9.4,-8.4,-1.1
+2021,NFL,Indianapolis Colts,9,8,0,2nd of 4,-1,451,365,86,Reich,Taylor,Wentz,Taylor,Pittman,9,16,9,16,1,7,18,32,5.1,-0.6,4.4,3.3,1.1
+2019,NFL,Indianapolis Colts,7,9,0,3rd of 4,-1,361,373,-12,Reich,Nelson,Brissett,Mack,Pascal,16,25,18,16,12,17,18,32,-0.8,-1.1,-1.8,-1,-0.8
+2017,NFL,Indianapolis Colts,4,12,0,3rd of 4,-1,263,404,-141,Pagano,Brissett,Brissett,Gore,Hilton,30,31,30,30,12,30,32,32,-8.8,-1.3,-10.1,-6.1,-4
+2016,NFL,Indianapolis Colts,8,8,0,3rd of 4,-1,411,392,19,Pagano,Luck,Luck,Gore,Hilton,8,10,22,30,24,16,26,32,1.2,-0.8,0.4,3.1,-2.7
+2015,NFL,Indianapolis Colts,8,8,0,2nd of 4,-1,333,408,-75,Pagano,Davis,Luck,Gore,Hilton,24,28,25,26,22,25,30,32,-4.7,-2,-6.7,-3.1,-3.6
+2011,NFL,Indianapolis Colts,2,14,0,4th of 4,-1,243,430,-187,Caldwell,Freeney,Painter,Brown,Wayne,28,30,28,25,26,30,32,32,-11.7,0.4,-11.3,-6,-5.3
+2021,NFL,Jacksonville Jaguars,3,14,0,4th of 4,-1,253,457,-204,MeyerBevell,Lawrence,Lawrence,Robinson,Jones,32,27,28,20,32,32,26,32,-12,0.6,-11.4,-7.7,-3.7
+2020,NFL,Jacksonville Jaguars,1,15,0,4th of 4,-1,306,492,-186,Marrone,Robinson,Minshew,Robinson,Chark,30,28,31,31,26,31,31,32,-11.6,-0.1,-11.7,-6.5,-5.3
+2019,NFL,Jacksonville Jaguars,6,10,0,4th of 4,-1,300,397,-97,Marrone,Minshew,Minshew,Fournette,Chark,26,20,21,24,18,26,24,32,-6.1,-0.6,-6.7,-4.6,-2.1
+2018,NFL,Jacksonville Jaguars,5,11,0,4th of 4,-1,245,316,-71,Marrone,Campbell,Bortles,Fournette,Westbrook,31,27,4,5,29,24,22,32,-4.4,0.4,-4,-8.1,4
+2016,NFL,Jacksonville Jaguars,3,13,0,4th of 4,-1,318,400,-82,BradleyMarrone,Bortles,Bortles,Yeldon,Robinson,25,23,25,6,30,27,11,32,-5.1,0.2,-5,-2.7,-2.3
+2015,NFL,Jacksonville Jaguars,5,11,0,3rd of 4,-1,376,448,-72,Bradley,Bortles,Bortles,Yeldon,Robinson,14,18,31,24,29,23,22,32,-4.5,-3,-7.5,-0.7,-6.9
+2014,NFL,Jacksonville Jaguars,3,13,0,3rd of 4,-1,249,412,-163,Bradley,Marks,Bortles,Robinson,Hurns,32,31,26,26,25,30,32,32,-10.2,-0.3,-10.5,-7.8,-2.7
+2013,NFL,Jacksonville Jaguars,4,12,0,3rd of 4,-1,247,449,-202,Bradley,Posluszny,Henne,Jones-Drew,Shorts,32,31,28,27,23,32,32,32,-12.6,1.5,-11.1,-7.1,-4
+2012,NFL,Jacksonville Jaguars,2,14,0,4th of 4,-1,255,444,-189,Mularkey,Posluszny,Henne,Jones-Drew,Shorts,30,29,29,30,21,31,32,32,-11.8,-1.1,-13,-8.1,-4.9
+2011,NFL,Jacksonville Jaguars,5,11,0,3rd of 4,-1,243,329,-86,Del RioTucker,Jones-Drew,Gabbert,Jones-Drew,Lewis,28,32,11,6,9,26,29,32,-5.4,-0.3,-5.6,-7.1,1.4
+2010,NFL,Jacksonville Jaguars,8,8,0,2nd of 4,-1,353,419,-66,Del Rio,Jones-Drew,Garrard,Jones-Drew,Thomas,18,15,27,28,31,24,23,32,-4.1,-0.4,-4.5,-1.2,-3.3
+2009,NFL,Jacksonville Jaguars,7,9,0,4th of 4,-1,290,380,-90,Del Rio,Garrard,Garrard,Jones-Drew,Sims-Walker,24,18,24,23,13,25,22,32,-5.6,-0.9,-6.5,-3.8,-2.6
+2008,NFL,Jacksonville Jaguars,5,11,0,4th of 4,-1,302,367,-65,Del Rio,Garrard,Garrard,Jones-Drew,Jones,24,20,21,17,25,24,22,32,-4.1,1.6,-2.5,-2.1,-0.4
+2006,NFL,Jacksonville Jaguars,8,8,0,3rd of 4,-1,371,274,97,Del Rio,Mathis,Garrard,Taylor,Jones,9,10,4,2,15,5,4,32,6.1,1.4,7.5,2.6,4.9
+2004,NFL,Jacksonville Jaguars,9,7,0,2nd of 4,-1,261,280,-19,Del Rio,Henderson,Leftwich,Taylor,Smith,29,21,7,11,11,18,18,32,-1.2,1.9,0.8,-5.7,6.4
+2003,NFL,Jacksonville Jaguars,5,11,0,3rd of 4,-1,276,331,-55,Del Rio,Taylor,Leftwich,Taylor,Smith,25,12,18,6,22,22,7,32,-3.4,1,-2.4,-3.3,0.9
+2002,NFL,Jacksonville Jaguars,6,10,0,3rd of 4,-1,328,315,13,Coughlin,Taylor,Brunell,Taylor,Smith,21,25,9,20,5,18,24,32,0.8,-1,-0.2,-1.3,1.1
+2014,NFL,Kansas City Chiefs,9,7,0,2nd of 4,-1,353,281,72,Reid,Houston,Smith,Charles,Kelce,16,25,2,7,21,9,22,32,4.5,1.2,5.7,0,5.7
+2012,NFL,Kansas City Chiefs,2,14,0,4th of 4,-1,211,425,-214,Crennel,Charles,Cassel,Charles,Bowe,32,24,25,20,31,32,27,32,-13.4,-0.6,-14,-10.3,-3.7
+2011,NFL,Kansas City Chiefs,7,9,0,4th of 4,-1,212,338,-126,HaleyCrennel,Johnson,Cassel,Battle,Bowe,31,27,12,11,18,29,21,32,-7.9,-0.2,-8.1,-10.2,2.1
+2009,NFL,Kansas City Chiefs,4,12,0,4th of 4,-1,294,424,-130,Haley,Charles,Cassel,Charles,Chambers,23,25,29,30,16,27,28,32,-8.1,-0.3,-8.4,-2.5,-5.9
+2008,NFL,Kansas City Chiefs,2,14,0,4th of 4,-1,291,440,-149,Edwards,Bowe,Thigpen,Johnson,Gonzalez,26,24,29,31,8,29,27,32,-9.3,0.1,-9.2,-3.9,-5.3
+2007,NFL,Kansas City Chiefs,4,12,0,3rd of 4,-1,226,335,-109,Edwards,Allen,Huard,Johnson,Gonzalez,31,31,14,13,28,26,24,32,-6.8,1.4,-5.5,-7.4,1.9
+2005,NFL,Kansas City Chiefs,10,6,0,2nd of 4,-1,403,325,78,Vermeil,Johnson,Green,Johnson,Kennison,6,1,16,25,8,9,1,32,4.9,2.1,7,5.1,1.9
+2004,NFL,Kansas City Chiefs,7,9,0,3rd of 4,-1,483,435,48,Vermeil,Green,Green,Holmes,Gonzalez,2,1,29,31,22,10,5,32,3,2.3,5.3,10,-4.7
+2002,NFL,Kansas City Chiefs,8,8,0,4th of 4,-1,467,399,68,Vermeil,Holmes,Green,Holmes,Kennison,1,4,28,32,3,7,19,32,4.3,1.9,6.1,8.4,-2.3
+2020,NFL,Las Vegas Raiders,8,8,0,2nd of 4,-1,434,478,-44,Gruden,Carr,Carr,Jacobs,Waller,10,8,30,25,30,21,17,32,-2.8,0.8,-2,2.9,-4.9
+2019,NFL,Oakland Raiders,7,9,0,3rd of 4,-1,313,419,-106,Gruden,Carr,Carr,Jacobs,Waller,24,11,24,19,21,27,14,32,-6.6,-0.3,-6.9,-2.5,-4.4
+2018,NFL,Oakland Raiders,4,12,0,4th of 4,-1,290,467,-177,Gruden,Carr,Carr,Martin,Cook,28,23,32,26,26,31,27,32,-11.1,1.8,-9.3,-5.2,-4.1
+2017,NFL,Oakland Raiders,6,10,0,3rd of 4,-1,301,373,-72,Del Rio,Mack,Carr,Lynch,Cook,23,17,20,23,29,25,23,32,-4.5,-0.2,-4.7,-3,-1.8
+2015,NFL,Oakland Raiders,7,9,0,3rd of 4,-1,359,399,-40,Del Rio,Mack,Carr,Murray,Cooper,17,24,22,22,17,17,24,32,-2.5,2.3,-0.2,1.4,-1.6
+2014,NFL,Oakland Raiders,3,13,0,4th of 4,-1,253,452,-199,SparanoAllen,Smith,Carr,McFadden,Holmes,31,32,32,21,32,32,30,32,-12.4,3.4,-9,-4.3,-4.7
+2013,NFL,Oakland Raiders,4,12,0,4th of 4,-1,322,453,-131,Allen,Houston,Pryor,Jennings,Streater,24,23,29,22,27,29,24,32,-8.2,0.2,-8,-3.8,-4.2
+2012,NFL,Oakland Raiders,4,12,0,3rd of 4,-1,290,443,-153,Allen,Palmer,Palmer,McFadden,Myers,26,18,28,18,23,29,17,32,-9.6,-1.3,-10.8,-4.6,-6.2
+2011,NFL,Oakland Raiders,8,8,0,3rd of 4,-1,359,433,-74,Jackson,Seymour,Palmer,Bush,Heyward-Bey,16,9,29,29,22,23,18,32,-4.6,-0.3,-4.9,0.2,-5.1
+2010,NFL,Oakland Raiders,8,8,0,3rd of 4,-1,410,371,39,Cable,McFadden,Campbell,McFadden,Miller,6,10,20,11,17,14,9,32,2.4,-2.3,0.2,2.3,-2.2
+2009,NFL,Oakland Raiders,5,11,0,3rd of 4,-1,197,379,-182,Cable,Asomugha,Russell,Bush,Miller,31,31,23,26,30,30,31,32,-11.4,1.1,-10.3,-8.7,-1.6
+2008,NFL,Oakland Raiders,5,11,0,3rd of 4,-1,263,388,-125,CableKiffin,Asomugha,Russell,Fargas,Miller,29,29,24,27,15,28,29,32,-7.8,0.3,-7.5,-6.5,-1
+2007,NFL,Oakland Raiders,4,12,0,4th of 4,-1,283,398,-115,Kiffin,Fargas,Culpepper,Fargas,Curry,23,25,26,22,28,28,26,32,-7.2,1.2,-6,-3.5,-2.5
+2006,NFL,Oakland Raiders,2,14,0,4th of 4,-1,168,332,-164,Shell,Asomugha,Walter,Fargas,Curry,32,32,18,3,32,32,26,32,-10.3,0.6,-9.6,-10.3,0.7
+2005,NFL,Oakland Raiders,4,12,0,4th of 4,-1,290,383,-93,Turner,Burgess,Collins,Jordan,Moss,23,21,25,27,18,26,24,32,-5.8,3,-2.8,-1.2,-1.6
+2004,NFL,Oakland Raiders,5,11,0,4th of 4,-1,320,442,-122,Turner,Collins,Collins,Zereoue,Porter,18,17,31,30,29,31,29,32,-7.6,3.4,-4.3,-0.6,-3.7
+2003,NFL,Oakland Raiders,4,12,0,3rd of 4,-1,270,379,-109,Callahan,Buchanon,Gannon,Wheatley,Rice,26,25,25,30,18,26,30,32,-6.8,1.3,-5.5,-4.2,-1.3
+2021,NFL,Los Angeles Chargers,9,8,0,3rd of 4,-1,474,459,15,Staley,Herbert,Herbert,Ekeler,Williams,5,4,29,23,19,16,9,32,0.9,0.2,1.1,5.3,-4.2
+2020,NFL,Los Angeles Chargers,7,9,0,3rd of 4,-1,384,426,-42,Lynn,Herbert,Herbert,Ekeler,Allen,18,9,23,10,13,20,9,32,-2.6,-0.3,-2.9,-1,-2
+2019,NFL,Los Angeles Chargers,5,11,0,4th of 4,-1,337,345,-8,Lynn,Rivers,Rivers,Gordon,Allen,21,10,14,6,31,16,5,32,-0.5,-0.8,-1.3,-1.6,0.3
+2017,NFL,Los Angeles Chargers,9,7,0,2nd of 4,-1,355,272,83,Lynn,Rivers,Rivers,Gordon,Allen,13,4,3,15,3,9,6,32,5.2,-1.5,3.6,-0.3,4
+2016,NFL,San Diego Chargers,5,11,0,4th of 4,-1,410,423,-13,McCoy,Rivers,Rivers,Gordon,Williams,9,14,29,16,26,22,13,32,-0.8,0.9,0.1,3,-3
+2015,NFL,San Diego Chargers,4,12,0,4th of 4,-1,320,398,-78,McCoy,Rivers,Rivers,Gordon,Woodhead,26,9,21,20,19,27,13,32,-4.9,2.2,-2.6,-1.5,-1.1
+2014,NFL,San Diego Chargers,9,7,0,2nd of 4,-1,348,348,0,McCoy,Weddle,Rivers,Oliver,Floyd,17,18,13,9,22,17,16,32,0,1.9,1.9,0.7,1.2
+2012,NFL,San Diego Chargers,7,9,0,2nd of 4,-1,350,350,0,Turner,Weddle,Rivers,Mathews,Floyd,20,31,16,9,14,16,25,32,0,-2.3,-2.3,-2,-0.4
+2011,NFL,San Diego Chargers,8,8,0,2nd of 4,-1,406,377,29,Turner,Rivers,Rivers,Mathews,Jackson,5,6,22,16,25,11,6,32,1.8,-0.9,0.9,2.7,-1.8
+2010,NFL,San Diego Chargers,9,7,0,2nd of 4,-1,441,322,119,Turner,Rivers,Rivers,Tolbert,Gates,2,1,10,1,23,5,1,32,7.4,-2.6,4.8,3.2,1.6
+2005,NFL,San Diego Chargers,9,7,0,3rd of 4,-1,418,312,106,Schottenheimer,Tomlinson,Brees,Tomlinson,Gates,5,10,13,13,25,7,6,32,6.6,3.3,9.9,7.1,2.9
+2003,NFL,San Diego Chargers,4,12,0,4th of 4,-1,313,441,-128,Schottenheimer,Tomlinson,Brees,Tomlinson,Boston,16,14,31,27,28,30,24,32,-8,1.2,-6.8,-0.6,-6.2
+2002,NFL,San Diego Chargers,8,8,0,3rd of 4,-1,333,367,-34,Schottenheimer,Tomlinson,Brees,Tomlinson,Conway,20,16,22,30,13,21,26,32,-2.1,1.4,-0.7,-1,0.2
+2019,NFL,Los Angeles Rams,9,7,0,3rd of 4,-1,394,364,30,McVay,Donald,Goff,Gurley,Kupp,11,7,17,13,15,12,8,32,1.9,2,3.9,2.2,1.7
+2016,NFL,Los Angeles Rams,4,12,0,3rd of 4,-1,224,394,-170,FisherFassel,Donald,Keenum,Gurley,Britt,32,32,23,9,28,30,30,32,-10.6,-0.5,-11.1,-9.5,-1.6
+2015,NFL,St. Louis Rams,7,9,0,3rd of 4,-1,280,330,-50,Fisher,Donald,Foles,Gurley,Britt,29,32,13,23,14,19,31,32,-3.1,3,-0.2,-3.8,3.6
+2014,NFL,St. Louis Rams,6,10,0,4th of 4,-1,324,354,-30,Fisher,Quinn,Davis,Mason,Britt,21,28,16,17,19,21,25,32,-1.9,1,-0.8,-1.2,0.4
+2013,NFL,St. Louis Rams,7,9,0,4th of 4,-1,348,364,-16,Fisher,Quinn,Bradford,Stacy,Cook,21,30,13,15,9,17,27,32,-1,3.2,2.2,0.4,1.8
+2012,NFL,St. Louis Rams,7,8,1,3rd of 4,-1,299,348,-49,Fisher,Bradford,Bradford,Jackson,Givens,25,23,14,14,17,22,20,32,-3.1,3.4,0.4,-2.1,2.4
+2011,NFL,St. Louis Rams,2,14,0,4th of 4,-1,193,407,-214,Spagnuolo,Laurinaitis,Bradford,Jackson,Lloyd,32,31,26,22,23,32,30,32,-13.4,2.9,-10.4,-8.4,-2.1
+2010,NFL,St. Louis Rams,7,9,0,2nd of 4,-1,289,328,-39,Spagnuolo,Jackson,Bradford,Jackson,Amendola,26,26,12,19,10,19,24,32,-2.4,-4.2,-6.7,-6.3,-0.4
+2009,NFL,St. Louis Rams,1,15,0,4th of 4,-1,175,436,-261,Spagnuolo,Jackson,Bulger,Jackson,Avery,32,29,31,29,30,32,30,32,-16.3,-1.1,-17.4,-11.7,-5.8
+2008,NFL,St. Louis Rams,2,14,0,4th of 4,-1,232,465,-233,HaslettLinehan,Jackson,Bulger,Jackson,Holt,30,27,31,28,23,31,28,32,-14.6,-0.5,-15.1,-8.1,-7
+2007,NFL,St. Louis Rams,3,13,0,4th of 4,-1,263,438,-175,Linehan,Holt,Bulger,Jackson,Holt,28,24,31,21,27,32,25,32,-10.9,-2,-13,-6.5,-6.5
+2006,NFL,St. Louis Rams,8,8,0,2nd of 4,-1,367,381,-14,Linehan,Jackson,Bulger,Jackson,Holt,10,6,28,23,2,18,11,32,-0.9,-3.1,-4,0.8,-4.7
+2005,NFL,St. Louis Rams,6,10,0,2nd of 4,-1,363,429,-66,VittMartz,Holt,Bulger,Jackson,Holt,11,9,31,30,28,21,22,32,-4.1,-1,-5.1,1.3,-6.4
+2002,NFL,St. Louis Rams,7,9,0,2nd of 4,-1,316,369,-53,Martz,Little,Bulger,Faulk,Holt,23,13,23,13,32,25,11,32,-3.3,0,-3.3,-1.6,-1.8
+2021,NFL,Miami Dolphins,9,8,0,3rd of 4,-1,341,373,-32,Flores,Howard,Tagovailoa,Gaskin,Waddle,22,25,16,15,16,21,23,32,-1.9,-0.8,-2.7,-3.1,0.3
+2020,NFL,Miami Dolphins,10,6,0,2nd of 4,-1,404,338,66,Flores,Howard,Fitzpatrick,Gaskin,Parker,15,22,6,20,3,11,24,32,4.1,-1.2,3,0.3,2.7
+2019,NFL,Miami Dolphins,5,11,0,4th of 4,-1,306,494,-188,Flores,Fitzpatrick,Fitzpatrick,Fitzpatrick,Parker,25,27,32,30,27,32,31,32,-11.8,0.2,-11.6,-2.4,-9.1
+2018,NFL,Miami Dolphins,7,9,0,2nd of 4,-1,319,433,-114,Gase,Howard,Tannehill,Gore,Amendola,26,31,27,29,11,30,30,32,-7.1,-1.7,-8.8,-3.6,-5.2
+2017,NFL,Miami Dolphins,6,10,0,3rd of 4,-1,281,393,-112,Gase,Jones,Cutler,Drake,Landry,28,25,29,16,29,29,25,32,-7,0.7,-6.3,-3.9,-2.4
+2015,NFL,Miami Dolphins,6,10,0,4th of 4,-1,310,389,-79,CampbellPhilbin,Tannehill,Tannehill,Miller,Landry,27,26,19,25,18,28,27,32,-4.9,-1.9,-6.8,-4.7,-2.2
+2014,NFL,Miami Dolphins,8,8,0,3rd of 4,-1,388,373,15,Philbin,Tannehill,Tannehill,Miller,Wallace,11,14,20,12,14,15,13,32,0.9,1.6,2.6,2.9,-0.4
+2013,NFL,Miami Dolphins,8,8,0,3rd of 4,-1,317,335,-18,Philbin,Tannehill,Tannehill,Miller,Hartline,26,27,8,21,18,18,28,32,-1.1,0.3,-0.8,-2.9,2.1
+2012,NFL,Miami Dolphins,7,9,0,2nd of 4,-1,288,317,-29,Philbin,Wake,Tannehill,Bush,Hartline,27,27,7,21,24,20,28,32,-1.8,-0.8,-2.6,-5.5,2.9
+2011,NFL,Miami Dolphins,6,10,0,3rd of 4,-1,329,313,16,SparanoBowles,Burnett,Moore,Bush,Marshall,20,22,6,15,24,14,22,32,1,-0.1,0.9,-2.2,3.2
+2010,NFL,Miami Dolphins,7,9,0,3rd of 4,-1,273,333,-60,Sparano,Wake,Henne,Brown,Marshall,30,21,14,6,30,22,11,32,-3.8,4.1,0.3,-2.8,3.1
+2009,NFL,Miami Dolphins,7,9,0,3rd of 4,-1,360,390,-30,Sparano,Long,Henne,Williams,Bess,15,17,25,22,26,20,20,32,-1.9,3.6,1.7,2.9,-1.2
+2007,NFL,Miami Dolphins,1,15,0,4th of 4,-1,267,437,-170,Cameron,Taylor,Lemon,Brown,Booker,26,28,30,23,22,31,27,32,-10.6,2.3,-8.4,-4.1,-4.2
+2006,NFL,Miami Dolphins,6,10,0,4th of 4,-1,260,283,-23,Saban,Taylor,Harrington,Brown,Booker,29,20,5,4,13,19,12,32,-1.4,2.1,0.7,-3.3,4
+2005,NFL,Miami Dolphins,9,7,0,2nd of 4,-1,318,317,1,Saban,Thomas,Frerotte,Brown,Chambers,16,14,15,18,14,17,18,32,0.1,-0.8,-0.8,-1.1,0.3
+2004,NFL,Miami Dolphins,4,12,0,4th of 4,-1,275,354,-79,BatesWannstedt,Taylor,Feeley,Morris,Chambers,28,29,20,8,29,26,25,32,-4.9,2.7,-2.2,-2.7,0.5
+2003,NFL,Miami Dolphins,10,6,0,2nd of 4,-1,311,261,50,Wannstedt,Thomas,Fiedler,Williams,Chambers,17,24,3,10,10,12,19,32,3.1,0.3,3.4,-0.7,4.1
+2002,NFL,Miami Dolphins,9,7,0,3rd of 4,-1,378,301,77,Wannstedt,Williams,Fiedler,Williams,Chambers,12,15,4,3,15,5,7,32,4.8,1.2,6.1,1.7,4.4
+2021,NFL,Minnesota Vikings,8,9,0,2nd of 4,-1,425,426,-1,Zimmer,Jefferson,Cousins,Cook,Jefferson,14,12,24,30,5,18,22,32,-0.1,0.3,0.3,1.9,-1.6
+2020,NFL,Minnesota Vikings,7,9,0,3rd of 4,-1,430,475,-45,Zimmer,Cousins,Cousins,Cook,Jefferson,11,4,29,27,20,22,15,32,-2.8,0.4,-2.4,1.3,-3.8
+2018,NFL,Minnesota Vikings,8,7,1,2nd of 4,-1,360,341,19,Zimmer,Hunter,Cousins,Cook,Thielen,19,20,9,4,19,12,7,32,1.2,-0.6,0.6,-1.2,1.8
+2016,NFL,Minnesota Vikings,8,8,0,3rd of 4,-1,327,307,20,Zimmer,Griffen,Bradford,McKinnon,Thielen,23,28,6,3,4,15,18,32,1.3,-0.3,0.9,-2.6,3.6
+2014,NFL,Minnesota Vikings,7,9,0,3rd of 4,-1,325,343,-18,Zimmer,Griffen,Bridgewater,Asiata,Jennings,20,27,11,14,18,18,24,32,-1.1,-0.5,-1.7,-2.8,1.1
+2013,NFL,Minnesota Vikings,5,10,1,4th of 4,-1,391,480,-89,Frazier,Peterson,Cassel,Peterson,Jennings,14,13,32,31,28,23,29,32,-5.6,-1.1,-6.6,0.2,-6.9
+2011,NFL,Minnesota Vikings,3,13,0,4th of 4,-1,340,449,-109,Frazier,Allen,Ponder,Peterson,Harvin,19,18,31,21,19,28,24,32,-6.8,1.1,-5.7,-1.6,-4.1
+2010,NFL,Minnesota Vikings,6,10,0,4th of 4,-1,281,348,-67,FrazierChildress,Peterson,Favre,Peterson,Harvin,29,23,18,8,29,25,17,32,-4.2,2.6,-1.6,-3.3,1.7
+2007,NFL,Minnesota Vikings,8,8,0,2nd of 4,-1,365,311,54,Childress,Williams,Jackson,Peterson,Wade,15,13,12,20,13,10,18,32,3.4,0.4,3.8,1.4,2.4
+2006,NFL,Minnesota Vikings,6,10,0,3rd of 4,-1,282,327,-45,Childress,Williams,Johnson,Taylor,Taylor,26,23,14,8,10,22,15,32,-2.8,-1.3,-4.1,-3.7,-0.4
+2005,NFL,Minnesota Vikings,9,7,0,2nd of 4,-1,306,344,-38,Tice,Sharper,Johnson,Moore,Taylor,19,25,19,21,12,19,27,32,-2.4,-1.1,-3.5,-1.4,-2.1
+2003,NFL,Minnesota Vikings,9,7,0,2nd of 4,-1,416,353,63,Tice,Moss,Culpepper,Williams,Moss,6,1,23,23,5,11,5,32,3.9,-1,2.9,4,-1.1
+2002,NFL,Minnesota Vikings,6,10,0,2nd of 4,-1,390,442,-52,Tice,Culpepper,Culpepper,Bennett,Moss,8,2,30,26,31,24,12,32,-3.3,0.2,-3,3.1,-6.1
+2020,NFL,New England Patriots,7,9,0,3rd of 4,-1,326,353,-27,Belichick,Newton,Newton,Harris,Meyers,27,27,7,15,13,19,22,32,-1.7,0.7,-1,-4.2,3.2
+2008,NFL,New England Patriots,11,5,0,2nd of 4,-1,410,309,101,Belichick,Cassel,Cassel,Morris,Welker,8,5,8,10,15,6,6,32,6.3,-2.4,3.9,2.3,1.6
+2002,NFL,New England Patriots,9,7,0,2nd of 4,-1,381,346,35,Belichick,Brady,Brady,Smith,Brown,10,21,17,23,10,14,20,32,2.2,1.8,4,2.1,1.9
+2021,NFL,New Orleans Saints,9,8,0,2nd of 4,-1,364,335,29,Payton,Davis,Winston,Kamara,Callaway,19,28,4,7,8,14,21,32,1.7,0.3,2,-1.5,3.6
+2016,NFL,New Orleans Saints,7,9,0,3rd of 4,-1,469,454,15,Payton,Brees,Brees,Ingram,Cooks,2,1,31,27,23,17,3,32,0.9,0.6,1.5,6.8,-5.3
+2015,NFL,New Orleans Saints,7,9,0,3rd of 4,-1,408,476,-68,Payton,Brees,Brees,Ingram,Cooks,8,2,32,31,15,22,18,32,-4.3,-2.3,-6.6,1.1,-7.6
+2014,NFL,New Orleans Saints,7,9,0,2nd of 4,-1,401,424,-23,Payton,Brees,Brees,Ingram,Stills,9,1,28,31,31,20,9,32,-1.4,-1.5,-2.9,1.9,-4.8
+2012,NFL,New Orleans Saints,7,9,0,3rd of 4,-1,461,454,7,VittKromer,Evans,Brees,Ingram,Colston,3,2,31,32,14,15,26,32,0.4,1,1.4,6.5,-5.1
+2008,NFL,New Orleans Saints,8,8,0,4th of 4,-1,463,393,70,Payton,Brees,Brees,Thomas,Moore,1,1,26,23,22,10,3,32,4.4,-0.3,4,6.8,-2.8
+2007,NFL,New Orleans Saints,7,9,0,3rd of 4,-1,379,388,-9,Payton,Brees,Brees,Bush,Colston,12,4,25,26,22,19,14,32,-0.6,-2,-2.5,1.9,-4.5
+2005,NFL,New Orleans Saints,3,13,0,4th of 4,-1,235,398,-163,Haslett,Brooks,Brooks,Smith,Stallworth,31,20,28,14,31,30,19,32,-10.2,-0.9,-11.1,-6.2,-4.9
+2004,NFL,New Orleans Saints,8,8,0,2nd of 4,-1,348,405,-57,Haslett,Brooks,Brooks,McAllister,Horn,14,15,27,32,10,24,31,32,-3.6,-2,-5.6,-1.2,-4.3
+2003,NFL,New Orleans Saints,8,8,0,2nd of 4,-1,340,326,14,Haslett,McAllister,Brooks,McAllister,Horn,14,11,14,18,18,17,15,32,0.9,-1.1,-0.3,0.1,-0.4
+2002,NFL,New Orleans Saints,9,7,0,3rd of 4,-1,432,388,44,Haslett,Brooks,Brooks,McAllister,Horn,3,19,26,27,9,10,25,32,2.8,-0.3,2.4,5.8,-3.3
+2021,NFL,New York Giants,4,13,0,4th of 4,-1,258,416,-158,Judge,Williams,Jones,Barkley,Golladay,31,31,23,21,26,29,30,32,-9.3,1,-8.3,-7.7,-0.6
+2020,NFL,New York Giants,6,10,0,2nd of 4,-1,280,357,-77,Judge,Bradberry,Jones,Gallman,Slayton,31,31,9,12,17,24,28,32,-4.8,0.4,-4.4,-6.7,2.3
+2019,NFL,New York Giants,4,12,0,3rd of 4,-1,341,451,-110,Shurmur,Barkley,Jones,Barkley,Slayton,18,23,30,25,31,28,26,32,-6.9,-1,-7.9,-1.8,-6.1
+2018,NFL,New York Giants,5,11,0,4th of 4,-1,369,412,-43,Shurmur,Barkley,Manning,Barkley,Beckham,16,17,23,24,13,22,24,32,-2.7,0.5,-2.2,0.8,-2.9
+2017,NFL,New York Giants,3,13,0,4th of 4,-1,246,388,-142,McAdooSpagnuolo,Collins,Manning,Darkwa,Shepard,31,21,27,31,20,31,31,32,-8.9,1.3,-7.6,-6.4,-1.2
+2015,NFL,New York Giants,6,10,0,3rd of 4,-1,420,442,-22,Coughlin,Manning,Manning,Jennings,Beckham,6,8,30,32,5,16,29,32,-1.4,-2.2,-3.6,2.5,-6.1
+2014,NFL,New York Giants,6,10,0,3rd of 4,-1,380,400,-20,Coughlin,Manning,Manning,Williams,Beckham,13,10,22,29,19,19,20,32,-1.3,-0.4,-1.7,0.8,-2.5
+2013,NFL,New York Giants,7,9,0,3rd of 4,-1,294,383,-89,Coughlin,Rolle,Manning,Brown,Cruz,28,28,18,8,31,23,22,32,-5.6,0.2,-5.4,-6.2,0.8
+2012,NFL,New York Giants,9,7,0,2nd of 4,-1,429,344,85,Coughlin,Manning,Manning,Bradshaw,Cruz,6,14,12,31,4,8,24,32,5.3,0.9,6.2,4,2.2
+2010,NFL,New York Giants,10,6,0,2nd of 4,-1,394,347,47,Coughlin,Tuck,Manning,Bradshaw,Nicks,7,5,17,7,18,11,3,32,2.9,-0.8,2.1,1.7,0.4
+2009,NFL,New York Giants,8,8,0,3rd of 4,-1,402,427,-25,Coughlin,Manning,Manning,Jacobs,Smith,8,8,30,13,24,19,10,32,-1.6,1.6,0.1,4.6,-4.5
+2004,NFL,New York Giants,6,10,0,2nd of 4,-1,303,347,-44,Coughlin,Barber,Warner,Barber,Toomer,22,23,17,13,14,22,24,32,-2.8,-1.2,-3.9,-2.3,-1.6
+2003,NFL,New York Giants,4,12,0,4th of 4,-1,243,387,-144,Fassel,Strahan,Collins,Barber,Toomer,30,20,29,22,31,31,23,32,-9,0.4,-8.6,-4.8,-3.7
+2021,NFL,New York Jets,4,13,0,4th of 4,-1,310,504,-194,Saleh,Moses,Wilson,Carter,Moore,28,26,32,32,29,31,31,32,-11.4,1,-10.4,-3.6,-6.7
+2020,NFL,New York Jets,2,14,0,4th of 4,-1,243,457,-214,Gase,Hewitt,Darnold,Gore,Crowder,32,32,26,24,17,32,32,32,-13.4,1.9,-11.5,-8.7,-2.8
+2019,NFL,New York Jets,7,9,0,3rd of 4,-1,276,359,-83,Gase,Adams,Darnold,Bell,Crowder,31,32,16,7,23,25,27,32,-5.2,-1.1,-6.3,-5.7,-0.6
+2018,NFL,New York Jets,4,12,0,4th of 4,-1,333,441,-108,Bowles,Adams,Darnold,Crowell,Anderson,23,29,29,25,27,29,29,32,-6.8,-1.1,-7.8,-2,-5.9
+2017,NFL,New York Jets,5,11,0,4th of 4,-1,298,382,-84,Bowles,McCown,McCown,Powell,Anderson,24,28,22,25,23,26,28,32,-5.3,0.3,-4.9,-2.9,-2.1
+2016,NFL,New York Jets,5,11,0,4th of 4,-1,275,409,-134,Bowles,Williams,Fitzpatrick,Forte,Enunwa,30,26,28,11,31,29,23,32,-8.4,-0.1,-8.5,-5.5,-3
+2015,NFL,New York Jets,10,6,0,2nd of 4,-1,387,314,73,Bowles,Wilkerson,Fitzpatrick,Ivory,Marshall,11,10,9,4,8,8,4,32,4.6,-3,1.5,-0.5,2
+2014,NFL,New York Jets,4,12,0,4th of 4,-1,283,401,-118,Ryan,Richardson,Smith,Ivory,Decker,28,22,24,6,29,26,18,32,-7.4,2.3,-5,-4,-1
+2013,NFL,New York Jets,8,8,0,2nd of 4,-1,290,387,-97,Ryan,Wilkerson,Smith,Ivory,Kerley,29,25,19,11,30,26,21,32,-6.1,0,-6.1,-4.7,-1.4
+2012,NFL,New York Jets,6,10,0,3rd of 4,-1,281,375,-94,Ryan,DeVito,Sanchez,Greene,Kerley,28,30,20,8,29,26,23,32,-5.9,0,-5.9,-5.1,-0.9
+2011,NFL,New York Jets,8,8,0,2nd of 4,-1,377,363,14,Ryan,Revis,Sanchez,Greene,Keller,13,25,20,5,19,15,15,32,0.9,0,0.9,1.2,-0.3
+2008,NFL,New York Jets,9,7,0,3rd of 4,-1,405,356,49,Mangini,Jones,Favre,Jones,Cotchery,9,16,18,16,19,12,20,32,3.1,-2.8,0.2,2.2,-1.9
+2007,NFL,New York Jets,4,12,0,3rd of 4,-1,268,355,-87,Mangini,Cotchery,Pennington,Jones,Cotchery,25,26,19,18,20,22,22,32,-5.4,1.7,-3.7,-4,0.3
+2005,NFL,New York Jets,4,12,0,4th of 4,-1,240,355,-115,Edwards,Law,Bollinger,Martin,Coles,29,31,23,12,20,28,29,32,-7.2,0.8,-6.4,-5.2,-1.2
+2003,NFL,New York Jets,6,10,0,4th of 4,-1,283,299,-16,Edwards,Martin,Pennington,Martin,Moss,23,19,8,21,14,18,22,32,-1,0.4,-0.6,-1.9,1.3
+2020,NFL,Philadelphia Eagles,4,11,1,4th of 4,-1,334,418,-84,Pederson,Cox,Wentz,Sanders,Fulgham,26,24,20,19,29,27,23,32,-5.3,0.8,-4.4,-2.8,-1.6
+2016,NFL,Philadelphia Eagles,7,9,0,4th of 4,-1,367,331,36,Pederson,Graham,Wentz,Mathews,Ertz,16,22,12,13,7,9,21,32,2.3,1.6,3.8,1.3,2.5
+2015,NFL,Philadelphia Eagles,7,9,0,2nd of 4,-1,377,430,-53,KellyShurmur,Cox,Bradford,Murray,Matthews,13,12,28,30,22,20,26,32,-3.3,-1.3,-4.6,-0.6,-4
+2014,NFL,Philadelphia Eagles,10,6,0,2nd of 4,-1,474,400,74,Kelly,Cox,Sanchez,McCoy,Maclin,3,5,22,28,26,8,11,32,4.6,-0.7,3.9,6.6,-2.7
+2012,NFL,Philadelphia Eagles,4,12,0,4th of 4,-1,280,444,-164,Reid,Vick,Vick,McCoy,Maclin,29,15,29,15,31,30,12,32,-10.3,1.4,-8.9,-5.3,-3.6
+2011,NFL,Philadelphia Eagles,8,8,0,2nd of 4,-1,396,328,68,Reid,Babin,Vick,McCoy,Jackson,8,4,10,8,30,9,4,32,4.3,0.5,4.7,3.1,1.7
+2007,NFL,Philadelphia Eagles,8,8,0,4th of 4,-1,336,300,36,Reid,Westbrook,McNabb,Westbrook,Curtis,17,6,9,10,25,11,7,32,2.3,3,5.3,0.1,5.1
+2005,NFL,Philadelphia Eagles,6,10,0,4th of 4,-1,310,388,-78,Reid,Trotter,McNabb,Westbrook,Owens,18,19,27,23,23,24,23,32,-4.9,2.6,-2.3,-0.7,-1.7
+2019,NFL,Pittsburgh Steelers,8,8,0,2nd of 4,-1,289,303,-14,Tomlin,Heyward,Rudolph,Conner,Washington,27,30,5,5,7,18,22,32,-0.9,1.2,0.3,-4.3,4.6
+2018,NFL,Pittsburgh Steelers,9,6,1,2nd of 4,-1,428,360,68,Tomlin,Roethlisberger,Roethlisberger,Conner,Smith-Schuster,6,4,16,6,28,11,2,32,4.3,1.3,5.6,3.9,1.7
+2013,NFL,Pittsburgh Steelers,8,8,0,2nd of 4,-1,379,370,9,Tomlin,Brown,Roethlisberger,Bell,Brown,16,20,14,13,20,14,17,32,0.6,-2.5,-2,-0.9,-1
+2012,NFL,Pittsburgh Steelers,8,8,0,3rd of 4,-1,336,314,22,Tomlin,Pouncey,Roethlisberger,Dwyer,Wallace,22,21,6,1,24,14,4,32,1.4,-2,-0.7,-2.8,2.1
+2009,NFL,Pittsburgh Steelers,9,7,0,3rd of 4,-1,368,324,44,Tomlin,Woodley,Roethlisberger,Mendenhall,Holmes,12,7,12,5,20,14,6,32,2.8,-1.1,1.7,1,0.7
+2006,NFL,Pittsburgh Steelers,8,8,0,3rd of 4,-1,353,315,38,Cowher,Faneca,Roethlisberger,Parker,Ward,12,7,11,9,27,11,3,32,2.4,1,3.4,3,0.4
+2003,NFL,Pittsburgh Steelers,6,10,0,3rd of 4,-1,300,327,-27,Cowher,Maddox,Maddox,Bettis,Ward,19,22,15,9,21,19,18,32,-1.7,0.6,-1.1,-2.5,1.4
+2020,NFL,San Francisco 49ers,6,10,0,4th of 4,-1,376,390,-14,Shanahan,Warner,Mullens,Wilson,Aiyuk,21,15,17,5,30,17,5,32,-0.9,1.7,0.8,0.2,0.7
+2018,NFL,San Francisco 49ers,4,12,0,3rd of 4,-1,342,435,-93,Shanahan,Kittle,Mullens,Breida,Kittle,21,16,28,13,32,27,16,32,-5.8,0.3,-5.5,-2.5,-3.1
+2017,NFL,San Francisco 49ers,6,10,0,4th of 4,-1,331,383,-52,Shanahan,Staley,Garoppolo,Hyde,Goodwin,20,12,25,24,20,19,16,32,-3.3,0.4,-2.9,-0.8,-2.1
+2016,NFL,San Francisco 49ers,2,14,0,4th of 4,-1,309,480,-171,Kelly,Kaepernick,Kaepernick,Hyde,Kerley,27,31,32,32,24,31,32,32,-10.7,-0.5,-11.2,-3.7,-7.5
+2015,NFL,San Francisco 49ers,5,11,0,4th of 4,-1,238,387,-149,Tomsula,Bowman,Gabbert,Hyde,Boldin,32,31,18,29,22,31,32,32,-9.3,3.8,-5.5,-6,0.5
+2014,NFL,San Francisco 49ers,8,8,0,3rd of 4,-1,306,340,-34,Harbaugh,Kaepernick,Kaepernick,Gore,Boldin,25,20,10,5,6,22,15,32,-2.1,1.2,-1,-3,2.1
+2010,NFL,San Francisco 49ers,6,10,0,3rd of 4,-1,305,346,-41,SingletaryTomsula,Willis,Smith,Gore,Davis,24,24,16,13,15,20,21,32,-2.6,-3.3,-5.8,-4.7,-1.1
+2009,NFL,San Francisco 49ers,8,8,0,2nd of 4,-1,330,281,49,Singletary,Willis,Smith,Gore,Davis,18,27,4,15,5,13,24,32,3.1,-3,0.1,-2.9,3
+2008,NFL,San Francisco 49ers,7,9,0,2nd of 4,-1,339,381,-42,SingletaryNolan,Willis,Hill,Gore,Bruce,22,23,23,13,31,23,23,32,-2.6,-2.7,-5.3,-2.9,-2.4
+2007,NFL,San Francisco 49ers,5,11,0,3rd of 4,-1,219,364,-145,Nolan,Willis,Dilfer,Gore,Battle,32,32,20,25,30,29,32,32,-9.1,-2.9,-11.9,-9.9,-2
+2006,NFL,San Francisco 49ers,7,9,0,3rd of 4,-1,298,412,-114,Nolan,Gore,Smith,Gore,Bryant,24,26,32,26,23,29,27,32,-7.1,-1.6,-8.7,-3.5,-5.2
+2005,NFL,San Francisco 49ers,4,12,0,4th of 4,-1,239,428,-189,Nolan,Smith,Smith,Gore,Lloyd,30,32,30,32,27,32,32,32,-11.8,0.7,-11.1,-5.6,-5.5
+2004,NFL,San Francisco 49ers,2,14,0,4th of 4,-1,259,452,-193,Erickson,Young,Rattay,Barlow,Johnson,30,26,32,24,31,32,30,32,-12.1,-1.6,-13.6,-5.1,-8.6
+2003,NFL,San Francisco 49ers,7,9,0,3rd of 4,-1,384,337,47,Erickson,Peterson,Garcia,Barlow,Owens,9,5,21,13,4,13,6,32,2.9,0.1,3.1,3,0.1
+2021,NFL,Seattle Seahawks,7,10,0,4th of 4,-1,395,366,29,Carroll,Wagner,Wilson,Penny,Lockett,16,20,11,28,10,14,27,32,1.7,0.2,1.9,0.4,1.5
+2017,NFL,Seattle Seahawks,9,7,0,2nd of 4,-1,366,332,34,Carroll,Wagner,Wilson,Wilson,Baldwin,11,15,13,11,8,13,13,32,2.1,-0.2,1.9,0.7,1.2
+2011,NFL,Seattle Seahawks,7,9,0,3rd of 4,-1,321,315,6,Carroll,Browner,Jackson,Lynch,Baldwin,23,28,7,9,5,18,23,32,0.4,0.4,0.8,-0.5,1.3
+2009,NFL,Seattle Seahawks,5,11,0,3rd of 4,-1,280,390,-110,Mora,Mebane,Hasselbeck,Jones,Houshmandzadeh,25,21,25,24,26,26,25,32,-6.9,-2.4,-9.3,-5,-4.4
+2008,NFL,Seattle Seahawks,4,12,0,3rd of 4,-1,294,392,-98,Holmgren,Peterson,Wallace,Jones,Carlson,25,28,25,30,25,26,30,32,-6.1,-1.5,-7.6,-4.9,-2.8
+2002,NFL,Seattle Seahawks,7,9,0,3rd of 4,-1,355,369,-14,Holmgren,Alexander,Hasselbeck,Alexander,Robinson,16,7,23,28,14,19,17,32,-0.9,-0.4,-1.3,0,-1.2
+2019,NFL,Tampa Bay Buccaneers,7,9,0,3rd of 4,-1,458,449,9,Arians,Winston,Winston,Jones,Godwin,3,3,29,15,28,13,6,32,0.6,-0.2,0.4,4.9,-4.5
+2018,NFL,Tampa Bay Buccaneers,5,11,0,4th of 4,-1,396,464,-68,Koetter,Evans,Winston,Barber,Evans,12,3,31,27,31,23,9,32,-4.3,1.7,-2.6,2,-4.6
+2017,NFL,Tampa Bay Buccaneers,5,11,0,4th of 4,-1,335,382,-47,Koetter,Winston,Winston,Barber,Evans,18,9,22,32,16,18,18,32,-2.9,1.7,-1.3,0.4,-1.7
+2016,NFL,Tampa Bay Buccaneers,9,7,0,2nd of 4,-1,354,369,-15,Koetter,McCoy,Winston,Rodgers,Evans,18,18,15,23,13,23,27,32,-0.9,0.7,-0.2,-1.5,1.3
+2015,NFL,Tampa Bay Buccaneers,6,10,0,4th of 4,-1,342,417,-75,Smith,Winston,Winston,Martin,Evans,20,5,26,10,22,25,7,32,-4.7,-3,-7.7,-3.5,-4.2
+2014,NFL,Tampa Bay Buccaneers,2,14,0,4th of 4,-1,277,410,-133,Smith,McCoy,McCown,Martin,Evans,29,30,25,25,26,28,31,32,-8.3,-1.5,-9.8,-6.5,-3.3
+2013,NFL,Tampa Bay Buccaneers,4,12,0,4th of 4,-1,288,389,-101,Schiano,David,Glennon,Rainey,Jackson,30,32,21,17,7,28,30,32,-6.3,3.6,-2.7,-2.9,0.3
+2012,NFL,Tampa Bay Buccaneers,7,9,0,4th of 4,-1,389,394,-5,Schiano,Martin,Freeman,Martin,Jackson,13,9,23,29,12,17,21,32,-0.3,0.3,0,1.3,-1.3
+2011,NFL,Tampa Bay Buccaneers,4,12,0,4th of 4,-1,287,494,-207,Morris,Joseph,Freeman,Blount,Williams,27,21,32,30,32,31,31,32,-12.9,2.3,-10.6,-4,-6.6
+2010,NFL,Tampa Bay Buccaneers,10,6,0,3rd of 4,-1,341,318,23,Morris,Freeman,Freeman,Blount,Williams,20,19,9,17,5,15,16,32,1.4,-2,-0.6,-1,0.4
+2009,NFL,Tampa Bay Buccaneers,3,13,0,4th of 4,-1,244,400,-156,Morris,Ruud,Freeman,Williams,Winslow,30,28,27,27,22,29,27,32,-9.8,4.1,-5.6,-4.6,-1.1
+2008,NFL,Tampa Bay Buccaneers,9,7,0,3rd of 4,-1,361,323,38,Gruden,Barber,Garcia,Dunn,Bryant,19,14,10,9,11,15,10,32,2.4,-0.1,2.3,-0.6,2.9
+2006,NFL,Tampa Bay Buccaneers,4,12,0,4th of 4,-1,211,353,-142,Gruden,Barber,Gradkowski,Williams,Galloway,31,29,21,17,30,31,29,32,-8.9,0.9,-7.9,-7.2,-0.8
+2004,NFL,Tampa Bay Buccaneers,5,11,0,4th of 4,-1,301,304,-3,Gruden,Barber,Griese,Pittman,Clayton,23,22,9,5,24,17,12,32,-0.2,-2.5,-2.7,-4,1.3
+2003,NFL,Tampa Bay Buccaneers,7,9,0,3rd of 4,-1,301,264,37,Gruden,Rice,Johnson,Pittman,McCardell,18,10,4,5,10,14,4,32,2.3,-0.7,1.6,-2.9,4.5
+2018,NFL,Tennessee Titans,9,7,0,3rd of 4,-1,310,303,7,Vrabel,Casey,Mariota,Henry,Davis,27,25,3,8,21,15,25,32,0.4,-0.2,0.2,-3.2,3.5
+2016,NFL,Tennessee Titans,9,7,0,2nd of 4,-1,381,378,3,Mularkey,Conklin,Mariota,Murray,Matthews,14,11,16,20,17,20,17,32,0.2,-1.2,-1,0.7,-1.7
+2015,NFL,Tennessee Titans,3,13,0,4th of 4,-1,299,423,-124,MularkeyWhisenhunt,Mariota,Mariota,Andrews,Walker,28,30,27,12,30,30,25,32,-7.8,-2.8,-10.5,-5.9,-4.6
+2014,NFL,Tennessee Titans,2,14,0,4th of 4,-1,254,438,-184,Whisenhunt,Casey,Mettenberger,Sankey,Walker,30,29,29,27,28,31,29,32,-11.5,-0.3,-11.8,-7,-4.9
+2013,NFL,Tennessee Titans,7,9,0,2nd of 4,-1,362,381,-19,Munchak,Verner,Fitzpatrick,Johnson,Wright,19,22,16,14,14,19,18,32,-1.2,0.4,-0.8,-0.2,-0.6
+2012,NFL,Tennessee Titans,6,10,0,3rd of 4,-1,330,471,-141,Munchak,Johnson,Locker,Johnson,Washington,23,26,32,27,22,28,30,32,-8.8,-1.2,-10,-2.6,-7.4
+2011,NFL,Tennessee Titans,9,7,0,2nd of 4,-1,325,317,8,Munchak,Johnson,Hasselbeck,Johnson,Washington,21,17,8,18,13,17,20,32,0.5,-1.5,-1,-2.2,1.2
+2010,NFL,Tennessee Titans,6,10,0,4th of 4,-1,356,339,17,Fisher,Johnson,Collins,Johnson,Britt,17,27,15,26,19,16,29,32,1.1,0,1,-0.9,1.9
+2009,NFL,Tennessee Titans,8,8,0,3rd of 4,-1,354,402,-48,Fisher,Johnson,Young,Johnson,Britt,16,12,28,28,21,21,21,32,-3,0.2,-2.8,0.9,-3.6
+2006,NFL,Tennessee Titans,8,8,0,2nd of 4,-1,324,400,-76,Fisher,Young,Young,Henry,Bennett,16,27,31,32,13,26,31,32,-4.8,3.5,-1.3,1,-2.3
+2005,NFL,Tennessee Titans,4,12,0,3rd of 4,-1,299,421,-122,Fisher,McNair,McNair,Brown,Bennett,21,17,29,19,20,29,21,32,-7.6,0.1,-7.6,-2,-5.5
+2004,NFL,Tennessee Titans,5,11,0,4th of 4,-1,344,439,-95,Fisher,Bennett,Volek,Brown,Bennett,15,11,30,27,20,27,21,32,-5.9,1.5,-4.4,0.3,-4.6
+2021,NFL,Washington Football Team,7,10,0,3rd of 4,-1,335,434,-99,Rivera,Heinicke,Heinicke,Gibson,McLaurin,23,21,25,22,24,25,24,32,-5.8,1.6,-4.2,-2.7,-1.5
+2019,NFL,Washington Redskins,3,13,0,4th of 4,-1,266,435,-169,CallahanGruden,Allen,Keenum,Peterson,McLaurin,32,31,27,27,13,31,32,32,-10.6,-0.2,-10.8,-6.3,-4.5
+2018,NFL,Washington Redskins,7,9,0,3rd of 4,-1,281,359,-78,Gruden,Kerrigan,Smith,Peterson,Reed,29,28,15,17,8,25,28,32,-4.9,-0.1,-4.9,-5.6,0.6
+2017,NFL,Washington Redskins,7,9,0,3rd of 4,-1,342,388,-46,Gruden,Cousins,Cousins,Perine,Crowder,16,16,27,21,23,17,22,32,-2.9,1.6,-1.3,0.5,-1.8
+2016,NFL,Washington Redskins,8,7,1,3rd of 4,-1,396,383,13,Gruden,Cousins,Cousins,Kelley,Garcon,12,3,19,28,17,18,9,32,0.8,1.2,2,3.3,-1.3
+2014,NFL,Washington Redskins,4,12,0,4th of 4,-1,301,438,-137,Gruden,Williams,Cousins,Morris,Jackson,26,13,29,20,30,29,17,32,-8.6,-0.2,-8.7,-4,-4.7
+2013,NFL,Washington Redskins,3,13,0,4th of 4,-1,334,478,-144,Shanahan,Orakpo,Griffin,Morris,Garcon,23,9,30,18,25,30,11,32,-9,-0.3,-9.3,-3.9,-5.4
+2011,NFL,Washington Redskins,5,11,0,4th of 4,-1,288,367,-79,Shanahan,Fletcher,Grossman,Helu,Gaffney,26,16,21,13,30,24,16,32,-4.9,0.8,-4.1,-4.3,0.2
+2010,NFL,Washington Redskins,6,10,0,4th of 4,-1,302,377,-75,Shanahan,Hall,McNabb,Torain,Moss,25,18,21,31,19,27,26,32,-4.7,0.9,-3.8,-3.4,-0.5
+2009,NFL,Washington Redskins,4,12,0,4th of 4,-1,266,336,-70,Zorn,Campbell,Campbell,Portis,Moss,26,22,18,10,28,24,18,32,-4.4,-0.2,-4.6,-5.5,1
+2008,NFL,Washington Redskins,8,8,0,4th of 4,-1,265,296,-31,Zorn,Portis,Campbell,Portis,Moss,28,19,6,4,17,22,12,32,-1.9,0.2,-1.8,-5.8,4.1
+2006,NFL,Washington Redskins,5,11,0,4th of 4,-1,307,376,-69,Gibbs,Betts,Brunell,Betts,Moss,20,13,27,31,23,24,23,32,-4.3,0.3,-4,-2.1,-2
+2004,NFL,Washington Redskins,6,10,0,4th of 4,-1,240,265,-25,Gibbs,Washington,Ramsey,Portis,Coles,31,30,5,3,20,19,14,32,-1.6,-1.8,-3.4,-7.4,4
+2003,NFL,Washington Redskins,5,11,0,3rd of 4,-1,287,372,-85,Spurrier,Arrington,Ramsey,Canidate,Coles,22,23,24,25,10,25,27,32,-5.3,-0.4,-5.7,-1.9,-3.8
+2002,NFL,Washington Redskins,7,9,0,3rd of 4,-1,307,365,-58,Spurrier,Arrington,Ramsey,Davis,Gardner,25,20,21,5,29,26,14,32,-3.6,-0.8,-4.5,-2.2,-2.2
